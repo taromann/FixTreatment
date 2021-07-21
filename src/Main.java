@@ -1,3 +1,4 @@
+
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.DirectoryStream;
@@ -54,7 +55,7 @@ public class Main {
                     if (!Files.exists(dstPath)) {
                         Files.createDirectory(dstPath);
                     }
-                    filesToConvert.add(Paths.get(dstPath + "/" + "Report_New.txt"));
+                    filesToConvert.add(Paths.get(dstPath + "/" + "Report_New.csv"));
                     Files.walkFileTree((Path) value, new FIleFixCopier(dstPath));
                 } catch (IOException e) {
                     e.printStackTrace();
@@ -72,21 +73,13 @@ public class Main {
                Files.delete(readyTXT);
             }
             Files.createFile(readyTXT);
-            List<String> lines = Files.readAllLines(reportNewFile);
+            List<String> lines = Files.readAllLines(reportNewFile, UTF_16);
             for (String line : lines) {
-                System.out.println(line);
-
-                String[] values = line.split(",");
-                for (int i = 0; i < values.length; i++) {
-//                    System.out.println(values[0]);
-                }
-
-
+                String utf8String= new String(line.getBytes("UTF-16"), "windows-1251");
+                System.out.println(utf8String);
+                String[] values = utf8String.split(",");
+                System.out.println(values[0]);
             }
-
-
-
         }
-        
     }
 }
