@@ -1,0 +1,686 @@
+===  Каталог <C:\Program Files\Secret Net Studio\Client\>  1
+C:\Program Files\Secret Net Studio\Client\BCGCBPRO100u90.dll
+C:\Program Files\Secret Net Studio\Client\LacusFramework.dll
+C:\Program Files\Secret Net Studio\Client\LacusFrameworkShell.dll
+C:\Program Files\Secret Net Studio\Client\lc.dll
+C:\Program Files\Secret Net Studio\Client\OmsAgent.dll
+C:\Program Files\Secret Net Studio\Client\OmsAgentGate.dll
+C:\Program Files\Secret Net Studio\Client\OmsAgentGatePS.dll
+C:\Program Files\Secret Net Studio\Client\OmsHost.exe
+C:\Program Files\Secret Net Studio\Client\OmsServices.dll
+C:\Program Files\Secret Net Studio\Client\ScFwSrvConfig.dll.
+C:\Program Files\Secret Net Studio\Client\SnAvTrayExt.dll
+C:\Program Files\Secret Net Studio\Client\SnCheckInj.exe
+C:\Program Files\Secret Net Studio\Client\SnCheckInj32.exe
+C:\Program Files\Secret Net Studio\Client\SnControl.dll
+C:\Program Files\Secret Net Studio\Client\SnCP.cpl
+C:\Program Files\Secret Net Studio\Client\SnCpCom.dll
+C:\Program Files\Secret Net Studio\Client\SnCryptoProxy.dll
+C:\Program Files\Secret Net Studio\Client\SnCtxVChannelClient.dll
+C:\Program Files\Secret Net Studio\Client\SnDC.dll
+C:\Program Files\Secret Net Studio\Client\SnPolicyHost.exe
+C:\Program Files\Secret Net Studio\Client\SnPolicyLib.dll
+C:\Program Files\Secret Net Studio\Client\SnPolicySrv.exe
+C:\Program Files\Secret Net Studio\Client\SnPrintConfig.dll
+C:\Program Files\Secret Net Studio\Client\SnRuToken.dll
+C:\Program Files\Secret Net Studio\Client\SnSable.dll
+C:\Program Files\Secret Net Studio\Client\SnServerObjects.dll
+C:\Program Files\Secret Net Studio\Client\SnSrv.exe
+C:\Program Files\Secret Net Studio\Client\SnSrvAlarm.dll
+C:\Program Files\Secret Net Studio\Client\SnSrvGpe.dll
+C:\Program Files\Secret Net Studio\Client\SnSrvKrn.dll
+C:\Program Files\Secret Net Studio\Client\SnSrvLib.dll
+C:\Program Files\Secret Net Studio\Client\SnSrvLog.dll
+C:\Program Files\Secret Net Studio\Client\SnTmCard.dll
+C:\Program Files\Secret Net Studio\Client\SnVChannelClient.dll
+C:\Program Files\Secret Net Studio\Client\SnWow.dll
+C:\Program Files\Secret Net Studio\Client\TaSnUserLogon.dll
+C:\Program Files\Secret Net Studio\Client\TblRescue.exe
+C:\Program Files\Secret Net Studio\Client\trace_off.cmd
+C:\Program Files\Secret Net Studio\Client\trace_on.cmd
+C:\Program Files\Secret Net Studio\Client\uc.dll
+C:\Program Files\Secret Net Studio\Client\XmlDocument.dll
+C:\Program Files\Secret Net Studio\Client\SetSecAttrib.exe
+C:\Program Files\Secret Net Studio\Client\SnEraserR3.exe
+C:\Program Files\Secret Net Studio\Client\SnMCTune.exe
+C:\Program Files\Secret Net Studio\Client\SnIconPrintExt.dll
+C:\Program Files\Secret Net Studio\Client\SnPrint.exe
+C:\Program Files\Secret Net Studio\Client\SnPrinterIsolation.exe
+C:\Program Files\Secret Net Studio\Client\SnPrintLib.dll
+C:\Program Files\Secret Net Studio\Client\SnEsmart.dll
+C:\Program Files\Secret Net Studio\Client\SnEtokenEx.dll
+C:\Program Files\Secret Net Studio\Client\SnEtokenSC.dll
+C:\Program Files\Secret Net Studio\Client\SnJacarta.dll
+C:\Program Files\Secret Net Studio\Client\SnDCDesc.dll
+===  Каталог <C:\Windows\SysWOW64\>  2
+C:\Windows\SysWOW64\Sn5CryptoApi.dll
+C:\Windows\SysWOW64\SnAudit.dll
+C:\Windows\SysWOW64\SnClientObjects.dll
+C:\Windows\SysWOW64\SnCVApi.dll
+C:\Windows\SysWOW64\SnPrintSubSystem.dll
+C:\Windows\SysWOW64\SnProcExt.dll
+C:\Windows\SysWOW64\SnResource.dll
+C:\Windows\SysWOW64\SnSableCrypt.dll
+C:\Windows\SysWOW64\SnSrvApi.dll
+C:\Windows\SysWOW64\SnToken.dll
+C:\Windows\SysWOW64\SnTrustAccess.dll
+C:\Windows\SysWOW64\SnVChannelSrv.dll
+C:\Windows\SysWOW64\SnErR3api.dll
+C:\Windows\SysWOW64\SnScpCtrl.dll
+C:\Windows\SysWOW64\SnScpCtrlSubSystem.dll
+C:\Windows\SysWOW64\SnShadowCD.dll
+C:\Windows\SysWOW64\SnWiper3.dll
+C:\Windows\SysWOW64\SnMetroDialogs.dll
+C:\Windows\SysWOW64\SnMsoExcelAgent.dll
+C:\Windows\SysWOW64\SnMsoWordAgent.dll
+C:\Windows\SysWOW64\SnPrintDialogs.dll
+C:\Windows\SysWOW64\SnPrnCtrl.dll
+===  Каталог <C:\Windows\System32\>  3
+C:\Windows\System32\Sn5CryptoApi.dll
+C:\Windows\System32\SnAudit.dll
+C:\Windows\System32\SnClientObjects.dll
+C:\Windows\System32\SnCVApi.dll
+C:\Windows\System32\SnPrintSubSystem.dll
+C:\Windows\System32\SnProcExt.dll
+C:\Windows\System32\SnResource.dll
+C:\Windows\System32\SnSableCrypt.dll
+C:\Windows\System32\SnSrvApi.dll
+C:\Windows\System32\SnToken.dll
+C:\Windows\System32\SnTrustAccess.dll
+C:\Windows\System32\SnVChannelSrv.dll
+C:\Windows\System32\SnErR3api.dll
+C:\Windows\System32\SnScpCtrl.dll
+C:\Windows\System32\SnScpCtrlSubSystem.dll
+C:\Windows\System32\SnShadowCD.dll
+C:\Windows\System32\SnWiper3.dll
+C:\Windows\System32\SnMetroDialogs.dll
+C:\Windows\System32\SnMsoExcelAgent.dll
+C:\Windows\System32\SnMsoWordAgent.dll
+C:\Windows\System32\SnPrintDialogs.dll
+C:\Windows\System32\SnPrnCtrl.dll
+===  Каталог <C:\Program Files\Secret Net Studio\Client\virtualprinter\>  4
+C:\Program Files\Secret Net Studio\Client\virtualprinter\SnXpsFSF.dll
+C:\Program Files\Secret Net Studio\Client\virtualprinter\SnXpsVP.dll
+===  Каталог <C:\Program Files\Secret Net Studio\Client\Components\Control Center\>  5
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\ClientMIB.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\ClientMIBServices.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\CLRSnTrace.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\LacusFramework.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\LacusMedusaTransport.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\lc.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\ManagedServices.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\Medusa.exe
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\SnDCDesc.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\SnMercurius.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\SnServerObjects.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\uc.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\XmlDocument.dll
+===  Каталог <C:\Program Files\Secret Net Studio\Server\Security Server\>  6
+C:\Program Files\Secret Net Studio\Server\Security Server\CGen.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\CGenui.exe
+C:\Program Files\Secret Net Studio\Server\Security Server\DbHelperMSSQL.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\DBLayer.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\LacusActivities.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\LacusFramework.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\LacusRuntime.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\LacusServices.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\lc.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\MIB.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\OmsDBPasswordChange.exe
+C:\Program Files\Secret Net Studio\Server\Security Server\OmsHost.exe
+C:\Program Files\Secret Net Studio\Server\Security Server\OMSISAPIExt.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\OmsServer.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\OmsServerGate.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\OmsServerGatePS.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\OmsServices.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\ScFwSrvConfig.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\SnClientObjects.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\SnicheckAPI.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\SnIcheckObjects.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\SnInstAgent.exe
+C:\Program Files\Secret Net Studio\Server\Security Server\SnInstAgent64.exe
+C:\Program Files\Secret Net Studio\Server\Security Server\SnServerObjects.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\uc.dll
+C:\Program Files\Secret Net Studio\Server\Security Server\XmlDocument.dll
+===  Каталог <C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\>  7
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\SnPrintConfig.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\SnPrintSubSystem.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\SnTmlEdit.exe
+===  Каталог <C:\Program Files\Secret Net Studio\Server\Authentication Server\>  8
+C:\Program Files\Secret Net Studio\Server\Authentication Server\comerr32.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\db2.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\DumpGen.exe
+C:\Program Files\Secret Net Studio\Server\Authentication Server\GroupsManager.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\gssapi32.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\InterConnect.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\k5sprt32.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\kdb5_ldap_util.exe
+C:\Program Files\Secret Net Studio\Server\Authentication Server\kdb5_util.exe
+C:\Program Files\Secret Net Studio\Server\Authentication Server\kldap.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\krb5_32.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\LDAPStorage.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\libsasl.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\PrincipalsManager.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\ScAuthAuditMsg.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\ScAuthKrbADPlugin.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\ScAuthKrbExtPlugin.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\ScAuthModCfgSrv.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\ScAuthMsg.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\ScAuthRPC.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\ScAuthSrvConfig.exe
+C:\Program Files\Secret Net Studio\Server\Authentication Server\ScConfigServer.exe
+C:\Program Files\Secret Net Studio\Server\Authentication Server\ScEventReporter.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\ScInterAL.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\ScKrb5Kdc.exe
+C:\Program Files\Secret Net Studio\Server\Authentication Server\ScLogCompr.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\ScLogger.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\ScLogUtil.exe
+C:\Program Files\Secret Net Studio\Server\Authentication Server\ScServerWatchdog.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\ScWatchdogAgent.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\ScWatchdogSvc.exe
+C:\Program Files\Secret Net Studio\Server\Authentication Server\XMLStorage.dll
+C:\Program Files\Secret Net Studio\Server\Authentication Server\xpprof32.dll
+===  Каталог <C:\Program Files\Secret Net Studio\Control Center\>  9
+C:\Program Files\Secret Net Studio\Control Center\ClientMIB.dll
+C:\Program Files\Secret Net Studio\Control Center\ClientMIBServices.dll
+C:\Program Files\Secret Net Studio\Control Center\CLRSnTrace.dll
+C:\Program Files\Secret Net Studio\Control Center\LacusFramework.dll
+C:\Program Files\Secret Net Studio\Control Center\LacusMedusaTransport.dll
+C:\Program Files\Secret Net Studio\Control Center\lc.dll
+C:\Program Files\Secret Net Studio\Control Center\ManagedServices.dll
+C:\Program Files\Secret Net Studio\Control Center\Medusa.exe
+C:\Program Files\Secret Net Studio\Control Center\SnDCDesc.dll
+C:\Program Files\Secret Net Studio\Control Center\SnMercurius.dll
+C:\Program Files\Secret Net Studio\Control Center\SnServerObjects.dll
+C:\Program Files\Secret Net Studio\Control Center\uc.dll
+C:\Program Files\Secret Net Studio\Control Center\XmlDocument.dll
+===  Каталог <C:\Program Files\Secret Net Studio\Control Center\clientdll\>  10
+C:\Program Files\Secret Net Studio\Control Center\clientdll\SnPrintConfig.dll
+C:\Program Files\Secret Net Studio\Control Center\clientdll\SnPrintSubSystem.dll
+C:\Program Files\Secret Net Studio\Control Center\clientdll\SnTmlEdit.exe
+===  Каталог <C:\Program Files\Secret Net Studio\Client\ru-ru\>  11
+C:\Program Files\Secret Net Studio\Client\ru-ru\BCGCBPRO100u90.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\LacusFramework.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\LacusFrameworkShell.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\lc.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\OmsAgent.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\OmsAgentGate.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\OmsAgentGatePS.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\OmsHost.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\OmsServices.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\ScFwSrvConfig.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnAvTrayExt.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnCheckInj.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnControl.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnCp.cpl.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnCpCom.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnCryptoProxy.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnCtxVChannelClient.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnDC.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnDCDesc.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnDomainUsers.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnDrvSupport.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnEsmart.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnEtalonsDB.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnEtokenEx.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnEtokenSC.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnFileExt.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnFloppy.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnGpeUpd.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnHWc.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnHwSrv.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnICheckAdm.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnIcheckCmdTool.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnICheckLDB.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnicheckSrv.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnIcon.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnIconExt.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnJacarta.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnJacartaSF.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SNLDB.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnPC.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnPolicyHost.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnPolicyLib.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnPolicySrv.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnPrintConfig.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnRuToken.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnSable.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnServerObjects.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnSrv.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnSrvAlarm.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnSrvGpe.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnSrvKrn.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnSrvLib.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnSrvLog.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnTmCard.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnVChannelClient.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnWow.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\TaSnUserLogon.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\TblRescue.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\uc.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\XmlDocument.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SetSecAttrib.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnEraserR3.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnMCTune.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnIconPrintExt.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnPrint.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnPrinterIsolation.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-ru\SnPrintLib.dll.mui
+===  Каталог <C:\Program Files\Secret Net Studio\Client\en-us\>  12
+C:\Program Files\Secret Net Studio\Client\en-us\BCGCBPRO100u90.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\LacusFramework.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\LacusFrameworkShell.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\lc.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\OmsAgent.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\OmsAgentGate.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\OmsAgentGatePS.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\OmsHost.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-us\OmsServices.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\ScFwSrvConfig.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnAvTrayExt.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnCheckInj.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnControl.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnCp.cpl.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnCpCom.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnCryptoProxy.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnCtxVChannelClient.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnDC.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnDCDesc.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnDomainUsers.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnDrvSupport.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnEsmart.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnEtalonsDB.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnEtokenEx.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnEtokenSC.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnFileExt.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnFloppy.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnGpeUpd.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnHWc.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnHwSrv.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnICheckAdm.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnIcheckCmdTool.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnICheckLDB.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnicheckSrv.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnIcon.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnIconExt.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnJacarta.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnJacartaSF.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SNLDB.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnPC.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnPolicyHost.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnPolicyLib.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnPolicySrv.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnPrintConfig.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnRuToken.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnSable.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnServerObjects.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnSrv.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnSrvAlarm.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnSrvGpe.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnSrvKrn.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnSrvLib.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnSrvLog.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnTmCard.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnVChannelClient.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnWow.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\TaSnUserLogon.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\TblRescue.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-us\uc.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\XmlDocument.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SetSecAttrib.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnEraserR3.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnMCTune.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnIconPrintExt.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnPrint.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnPrinterIsolation.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-us\SnPrintLib.dll.mui
+===  Каталог <C:\Program Files\Secret Net Studio\Client\>  13
+C:\Program Files\Secret Net Studio\Client\ScFwSrvConfig.dll
+C:\Program Files\Secret Net Studio\Client\SnDomainUsers.exe
+C:\Program Files\Secret Net Studio\Client\SnDrvSupport.dll
+C:\Program Files\Secret Net Studio\Client\SnesLicenseApi.dll
+C:\Program Files\Secret Net Studio\Client\SnEtalonsDB.dll
+C:\Program Files\Secret Net Studio\Client\SnFileExt.dll
+C:\Program Files\Secret Net Studio\Client\SnFloppy.dll
+C:\Program Files\Secret Net Studio\Client\SnGpeUpd.dll
+C:\Program Files\Secret Net Studio\Client\SnHWc.dll
+C:\Program Files\Secret Net Studio\Client\SnHwSrv.exe
+C:\Program Files\Secret Net Studio\Client\SnICheckAdm.exe
+C:\Program Files\Secret Net Studio\Client\SnIcheckCmdTool.exe
+C:\Program Files\Secret Net Studio\Client\SnICheckLDB.dll
+C:\Program Files\Secret Net Studio\Client\SnicheckSrv.exe
+C:\Program Files\Secret Net Studio\Client\SnIcon.exe
+C:\Program Files\Secret Net Studio\Client\SnIconExt.dll
+C:\Program Files\Secret Net Studio\Client\SnInstSrvLib.dll
+C:\Program Files\Secret Net Studio\Client\SnJacartaSF.dll
+C:\Program Files\Secret Net Studio\Client\SNLDB.dll
+C:\Program Files\Secret Net Studio\Client\SnPC.dll
+C:\Program Files\Secret Net Studio\Client\SnUruid.dll
+C:\Program Files\Secret Net Studio\Client\SnEraseDrive.exe
+C:\Program Files\Secret Net Studio\Client\SnErDExt.dll
+===  Каталог <C:\Program Files\Secret Net Studio\Client\en-US\>  14
+C:\Program Files\Secret Net Studio\Client\en-US\SnCheckInj32.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-US\SnesLicenseApi.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-US\SnInstSrvLib.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-US\SnUruid.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-US\SnEraseDrive.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-US\SnErDExt.dll.mui
+===  Каталог <C:\Program Files\Secret Net Studio\Client\ru-RU\>  15
+C:\Program Files\Secret Net Studio\Client\ru-RU\SnCheckInj32.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-RU\SnesLicenseApi.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-RU\SnInstSrvLib.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-RU\SnUruid.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-RU\SnEraseDrive.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-RU\SnErDExt.dll.mui
+===  Каталог <C:\Windows\System32\>  16
+C:\Windows\System32\SnDriverInstaller.dll
+C:\Windows\System32\SnError.dll
+C:\Windows\System32\SnEvtApi.dll
+C:\Windows\System32\SnGpe.dll
+C:\Windows\System32\SnGpeNam.dll
+C:\Windows\System32\SnGpeXml.dll
+C:\Windows\System32\SnHwAPI.dll
+C:\Windows\System32\SnicheckAPI.dll
+C:\Windows\System32\SnIcheckObjects.dll
+C:\Windows\System32\SnLicLib.dll
+C:\Windows\System32\SnObjectPicker.dll
+C:\Windows\System32\SnPEBoot.dll
+C:\Windows\System32\SnACApi.dll
+===  Каталог <C:\Windows\System32\en-US\>  17
+C:\Windows\System32\en-US\Sn5CryptoApi.dll.mui
+C:\Windows\System32\en-US\SnAudit.dll.mui
+C:\Windows\System32\en-US\SnClientObjects.dll.mui
+C:\Windows\System32\en-US\SnCVApi.dll.mui
+C:\Windows\System32\en-US\SnDriverInstaller.dll.mui
+C:\Windows\System32\en-US\SnError.dll.mui
+C:\Windows\System32\en-US\SnEvtApi.dll.mui
+C:\Windows\System32\en-US\SnGpe.dll.mui
+C:\Windows\System32\en-US\SnGpeNam.dll.mui
+C:\Windows\System32\en-US\SnGpeXml.dll.mui
+C:\Windows\System32\en-US\SnHwAPI.dll.mui
+C:\Windows\System32\en-US\SnicheckAPI.dll.mui
+C:\Windows\System32\en-US\SnIcheckObjects.dll.mui
+C:\Windows\System32\en-US\SnLicLib.dll.mui
+C:\Windows\System32\en-US\SnObjectPicker.dll.mui
+C:\Windows\System32\en-US\SnPEBoot.dll.mui
+C:\Windows\System32\en-US\SnPrintSubSystem.dll.mui
+C:\Windows\System32\en-US\SnProcExt.dll.mui
+C:\Windows\System32\en-US\SnResource.dll.mui
+C:\Windows\System32\en-US\SnSableCrypt.dll.mui
+C:\Windows\System32\en-US\SnSrvApi.dll.mui
+C:\Windows\System32\en-US\SnToken.dll.mui
+C:\Windows\System32\en-US\SnTrustAccess.dll.mui
+C:\Windows\System32\en-US\SnVChannelSrv.dll.mui
+C:\Windows\System32\en-US\SnACApi.dll.mui
+C:\Windows\System32\en-US\SnErR3api.dll.mui
+C:\Windows\System32\en-US\SnScpCtrl.dll.mui
+C:\Windows\System32\en-US\SnShadowCD.dll.mui
+C:\Windows\System32\en-US\SnWiper3.dll.mui
+C:\Windows\System32\en-US\SnMetroDialogs.dll.mui
+C:\Windows\System32\en-US\SnMsoExcelAgent.dll.mui
+C:\Windows\System32\en-US\SnMsoWordAgent.dll.mui
+C:\Windows\System32\en-US\SnPrintDialogs.dll.mui
+C:\Windows\System32\en-US\SnPrnCtrl.dll.mui
+===  Каталог <C:\Windows\System32\ru-RU\>  18
+C:\Windows\System32\ru-RU\Sn5CryptoApi.dll.mui
+C:\Windows\System32\ru-RU\SnAudit.dll.mui
+C:\Windows\System32\ru-RU\SnClientObjects.dll.mui
+C:\Windows\System32\ru-RU\SnCVApi.dll.mui
+C:\Windows\System32\ru-RU\SnDriverInstaller.dll.mui
+C:\Windows\System32\ru-RU\SnError.dll.mui
+C:\Windows\System32\ru-RU\SnEvtApi.dll.mui
+C:\Windows\System32\ru-RU\SnGpe.dll.mui
+C:\Windows\System32\ru-RU\SnGpeNam.dll.mui
+C:\Windows\System32\ru-RU\SnGpeXml.dll.mui
+C:\Windows\System32\ru-RU\SnHwAPI.dll.mui
+C:\Windows\System32\ru-RU\SnicheckAPI.dll.mui
+C:\Windows\System32\ru-RU\SnIcheckObjects.dll.mui
+C:\Windows\System32\ru-RU\SnLicLib.dll.mui
+C:\Windows\System32\ru-RU\SnObjectPicker.dll.mui
+C:\Windows\System32\ru-RU\SnPEBoot.dll.mui
+C:\Windows\System32\ru-RU\SnPrintSubSystem.dll.mui
+C:\Windows\System32\ru-RU\SnProcExt.dll.mui
+C:\Windows\System32\ru-RU\SnResource.dll.mui
+C:\Windows\System32\ru-RU\SnSableCrypt.dll.mui
+C:\Windows\System32\ru-RU\SnSrvApi.dll.mui
+C:\Windows\System32\ru-RU\SnToken.dll.mui
+C:\Windows\System32\ru-RU\SnTrustAccess.dll.mui
+C:\Windows\System32\ru-RU\SnVChannelSrv.dll.mui
+C:\Windows\System32\ru-RU\SnACApi.dll.mui
+C:\Windows\System32\ru-RU\SnErR3api.dll.mui
+C:\Windows\System32\ru-RU\SnScpCtrl.dll.mui
+C:\Windows\System32\ru-RU\SnShadowCD.dll.mui
+C:\Windows\System32\ru-RU\SnWiper3.dll.mui
+C:\Windows\System32\ru-RU\SnMetroDialogs.dll.mui
+C:\Windows\System32\ru-RU\SnMsoExcelAgent.dll.mui
+C:\Windows\System32\ru-RU\SnMsoWordAgent.dll.mui
+C:\Windows\System32\ru-RU\SnPrintDialogs.dll.mui
+C:\Windows\System32\ru-RU\SnPrnCtrl.dll.mui
+===  Каталог <C:\Program Files\Secret Net Studio\Client\virtualprinter\>  19
+C:\Program Files\Secret Net Studio\Client\virtualprinter\SnXpsFSF.dll.mui.en-US
+C:\Program Files\Secret Net Studio\Client\virtualprinter\SnXpsFSF.dll.mui.ru-RU
+C:\Program Files\Secret Net Studio\Client\virtualprinter\SnXpsVP.dll.mui.en-US
+C:\Program Files\Secret Net Studio\Client\virtualprinter\SnXpsVP.dll.mui.ru-RU
+===  Каталог <C:\Program Files\Secret Net Studio\Client\Components\Control Center\en-US\>  20
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\en-US\LacusFramework.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\en-US\lc.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\en-US\SnDCDesc.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\en-US\SnServerObjects.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\en-US\uc.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\en-US\XmlDocument.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\en-US\ClientMIB.resources.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\en-US\ClientMIBServices.resources.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\en-US\CLRSnTrace.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\en-US\LacusMedusaTransport.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\en-US\LacusMedusaTransport.resources.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\en-US\ManagedServices.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\en-US\ManagedServices.resources.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\en-US\Medusa.resources.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\en-US\SnMercurius.dll.mui
+===  Каталог <C:\Program Files\Secret Net Studio\Client\Components\Control Center\ru-RU\>  21
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\ru-RU\LacusFramework.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\ru-RU\lc.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\ru-RU\SnDCDesc.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\ru-RU\SnServerObjects.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\ru-RU\uc.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\ru-RU\XmlDocument.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\ru-RU\ClientMIB.resources.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\ru-RU\ClientMIBServices.resources.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\ru-RU\CLRSnTrace.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\ru-RU\LacusMedusaTransport.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\ru-RU\LacusMedusaTransport.resources.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\ru-RU\ManagedServices.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\ru-RU\ManagedServices.resources.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\ru-RU\Medusa.resources.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\ru-RU\SnMercurius.dll.mui
+===  Каталог <C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\en-US\>  22
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\en-US\SnPrintConfig.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\en-US\SnPrintSubSystem.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\en-US\SnTmlEdit.exe.mui
+===  Каталог <C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\ru-RU\>  23
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\ru-RU\SnPrintConfig.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\ru-RU\SnPrintSubSystem.dll.mui
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\ru-RU\SnTmlEdit.exe.mui
+===  Каталог <C:\Windows\SysWOW64\>  24
+C:\Windows\SysWOW64\SnDriverInstaller.dll
+C:\Windows\SysWOW64\SnError.dll
+C:\Windows\SysWOW64\SnEvtApi.dll
+C:\Windows\SysWOW64\SnGpe.dll
+C:\Windows\SysWOW64\SnGpeNam.dll
+C:\Windows\SysWOW64\SnGpeXml.dll
+C:\Windows\SysWOW64\SnHwAPI.dll
+C:\Windows\SysWOW64\SnicheckAPI.dll
+C:\Windows\SysWOW64\SnIcheckObjects.dll
+C:\Windows\SysWOW64\SnLicLib.dll
+C:\Windows\SysWOW64\SnObjectPicker.dll
+C:\Windows\SysWOW64\SnPEBoot.dll
+C:\Windows\SysWOW64\SnACApi.dll
+===  Каталог <C:\Windows\SysWOW64\en-US\>  25
+C:\Windows\SysWOW64\en-US\Sn5CryptoApi.dll.mui
+C:\Windows\SysWOW64\en-US\SnAudit.dll.mui
+C:\Windows\SysWOW64\en-US\SnClientObjects.dll.mui
+C:\Windows\SysWOW64\en-US\SnCVApi.dll.mui
+C:\Windows\SysWOW64\en-US\SnDriverInstaller.dll.mui
+C:\Windows\SysWOW64\en-US\SnError.dll.mui
+C:\Windows\SysWOW64\en-US\SnEvtApi.dll.mui
+C:\Windows\SysWOW64\en-US\SnGpe.dll.mui
+C:\Windows\SysWOW64\en-US\SnGpeNam.dll.mui
+C:\Windows\SysWOW64\en-US\SnGpeXml.dll.mui
+C:\Windows\SysWOW64\en-US\SnHwAPI.dll.mui
+C:\Windows\SysWOW64\en-US\SnicheckAPI.dll.mui
+C:\Windows\SysWOW64\en-US\SnIcheckObjects.dll.mui
+C:\Windows\SysWOW64\en-US\SnLicLib.dll.mui
+C:\Windows\SysWOW64\en-US\SnObjectPicker.dll.mui
+C:\Windows\SysWOW64\en-US\SnPEBoot.dll.mui
+C:\Windows\SysWOW64\en-US\SnPrintSubSystem.dll.mui
+C:\Windows\SysWOW64\en-US\SnProcExt.dll.mui
+C:\Windows\SysWOW64\en-US\SnResource.dll.mui
+C:\Windows\SysWOW64\en-US\SnSableCrypt.dll.mui
+C:\Windows\SysWOW64\en-US\SnSrvApi.dll.mui
+C:\Windows\SysWOW64\en-US\SnToken.dll.mui
+C:\Windows\SysWOW64\en-US\SnTrustAccess.dll.mui
+C:\Windows\SysWOW64\en-US\SnVChannelSrv.dll.mui
+C:\Windows\SysWOW64\en-US\SnACApi.dll.mui
+C:\Windows\SysWOW64\en-US\SnErR3api.dll.mui
+C:\Windows\SysWOW64\en-US\SnScpCtrl.dll.mui
+C:\Windows\SysWOW64\en-US\SnShadowCD.dll.mui
+C:\Windows\SysWOW64\en-US\SnWiper3.dll.mui
+C:\Windows\SysWOW64\en-US\SnMetroDialogs.dll.mui
+C:\Windows\SysWOW64\en-US\SnMsoExcelAgent.dll.mui
+C:\Windows\SysWOW64\en-US\SnMsoWordAgent.dll.mui
+C:\Windows\SysWOW64\en-US\SnPrintDialogs.dll.mui
+C:\Windows\SysWOW64\en-US\SnPrnCtrl.dll.mui
+===  Каталог <C:\Windows\SysWOW64\ru-RU\>  26
+C:\Windows\SysWOW64\ru-RU\Sn5CryptoApi.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnAudit.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnClientObjects.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnCVApi.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnDriverInstaller.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnError.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnEvtApi.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnGpe.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnGpeNam.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnGpeXml.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnHwAPI.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnicheckAPI.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnIcheckObjects.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnLicLib.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnObjectPicker.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnPEBoot.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnPrintSubSystem.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnProcExt.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnResource.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnSableCrypt.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnSrvApi.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnToken.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnTrustAccess.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnVChannelSrv.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnACApi.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnErR3api.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnScpCtrl.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnShadowCD.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnWiper3.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnMetroDialogs.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnMsoExcelAgent.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnMsoWordAgent.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnPrintDialogs.dll.mui
+C:\Windows\SysWOW64\ru-RU\SnPrnCtrl.dll.mui
+===  Каталог <C:\Program Files\Secret Net Studio\Client\>  27
+C:\Program Files\Secret Net Studio\Client\sndomainusers.dll
+C:\Program Files\Secret Net Studio\Client\SnEraserPV.exe
+C:\Program Files\Secret Net Studio\Client\SnReportPassSw.dll
+C:\Program Files\Secret Net Studio\Client\SnRWS.dll
+C:\Program Files\Secret Net Studio\Client\SnSblFourApi.dll
+C:\Program Files\Secret Net Studio\Client\snsshell.exe
+===  Каталог <C:\Program Files\Secret Net Studio\Client\ru-RU\>  28
+C:\Program Files\Secret Net Studio\Client\ru-RU\sndomainusers.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-RU\SnEraserPV.exe.mui
+C:\Program Files\Secret Net Studio\Client\ru-RU\SnReportPassSw.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-RU\SnRWS.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-RU\SnSblFourApi.dll.mui
+C:\Program Files\Secret Net Studio\Client\ru-RU\snsshell.exe.mui
+===  Каталог <C:\Program Files\Secret Net Studio\Client\en-US\>  29
+C:\Program Files\Secret Net Studio\Client\en-US\sndomainusers.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-US\SnEraserPV.exe.mui
+C:\Program Files\Secret Net Studio\Client\en-US\SnReportPassSw.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-US\SnRWS.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-US\SnSblFourApi.dll.mui
+C:\Program Files\Secret Net Studio\Client\en-US\snsshell.exe.mui
+===  Каталог <C:\Windows\System32\en-US\>  30
+C:\Windows\System32\en-US\SnScpCtrlSubSystem.dll.mui
+===  Каталог <C:\Windows\System32\ru-RU\>  31
+C:\Windows\System32\ru-RU\SnScpCtrlSubSystem.dll.mui
+===  Каталог <C:\Windows\SysWOW64\en-US\>  32
+C:\Windows\SysWOW64\en-US\SnScpCtrlSubSystem.dll.mui
+===  Каталог <C:\Windows\SysWOW64\ru-RU\>  33
+C:\Windows\SysWOW64\ru-RU\SnScpCtrlSubSystem.dll.mui
+===  Каталог <C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\>  34
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\ScTeApi.dll
+C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\scteerror.dll
+===  Каталог <C:\Program Files\Secret Net Studio\Control Center\clientdll\>  35
+C:\Program Files\Secret Net Studio\Control Center\clientdll\ScTeApi.dll
+C:\Program Files\Secret Net Studio\Control Center\clientdll\scteerror.dll
+===  Каталог <C:\Program Files\Secret Net Studio\Control Center\clientdll\en-US\>  36
+C:\Program Files\Secret Net Studio\Control Center\clientdll\en-US\SnPrintConfig.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\clientdll\en-US\SnPrintSubSystem.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\clientdll\en-US\SnTmlEdit.exe.mui
+===  Каталог <C:\Program Files\Secret Net Studio\Control Center\clientdll\ru-RU\>  37
+C:\Program Files\Secret Net Studio\Control Center\clientdll\ru-RU\SnPrintConfig.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\clientdll\ru-RU\SnPrintSubSystem.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\clientdll\ru-RU\SnTmlEdit.exe.mui
+===  Каталог <C:\Program Files\Secret Net Studio\Control Center\en-US\>  38
+C:\Program Files\Secret Net Studio\Control Center\en-US\ClientMIB.resources.dll
+C:\Program Files\Secret Net Studio\Control Center\en-US\ClientMIBServices.resources.dll
+C:\Program Files\Secret Net Studio\Control Center\en-US\CLRSnTrace.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\en-US\LacusFramework.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\en-US\LacusMedusaTransport.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\en-US\LacusMedusaTransport.resources.dll
+C:\Program Files\Secret Net Studio\Control Center\en-US\lc.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\en-US\ManagedServices.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\en-US\ManagedServices.resources.dll
+C:\Program Files\Secret Net Studio\Control Center\en-US\Medusa.resources.dll
+C:\Program Files\Secret Net Studio\Control Center\en-US\SnDCDesc.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\en-US\SnMercurius.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\en-US\SnServerObjects.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\en-US\uc.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\en-US\XmlDocument.dll.mui
+===  Каталог <C:\Program Files\Secret Net Studio\Control Center\ru-RU\>  39
+C:\Program Files\Secret Net Studio\Control Center\ru-RU\ClientMIB.resources.dll
+C:\Program Files\Secret Net Studio\Control Center\ru-RU\ClientMIBServices.resources.dll
+C:\Program Files\Secret Net Studio\Control Center\ru-RU\CLRSnTrace.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\ru-RU\LacusFramework.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\ru-RU\LacusMedusaTransport.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\ru-RU\LacusMedusaTransport.resources.dll
+C:\Program Files\Secret Net Studio\Control Center\ru-RU\lc.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\ru-RU\ManagedServices.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\ru-RU\ManagedServices.resources.dll
+C:\Program Files\Secret Net Studio\Control Center\ru-RU\Medusa.resources.dll
+C:\Program Files\Secret Net Studio\Control Center\ru-RU\SnDCDesc.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\ru-RU\SnMercurius.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\ru-RU\SnServerObjects.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\ru-RU\uc.dll.mui
+C:\Program Files\Secret Net Studio\Control Center\ru-RU\XmlDocument.dll.mui
+===  Каталог <C:\Program Files\Secret Net Studio\Client\Update Client\>  40
+C:\Program Files\Secret Net Studio\Client\Update Client\SNS.agent_proxy.us.dll
+C:\Program Files\Secret Net Studio\Client\Update Client\SNS.download_service.exe
+C:\Program Files\Secret Net Studio\Client\Update Client\SNS.download_worker.exe
+C:\Program Files\Secret Net Studio\Client\Update Client\SNS.messages.dll
+C:\Program Files\Secret Net Studio\Client\Update Client\SNS.reporting.upd.dll
+C:\Program Files\Secret Net Studio\Client\Update Client\SNS.resources.dll
+C:\Program Files\Secret Net Studio\Client\Update Client\SNS.update_service.exe
+===  Каталог <C:\Program Files\Secret Net Studio\Client\Update Client\en-US\>  41
+C:\Program Files\Secret Net Studio\Client\Update Client\en-US\SNS.agent_proxy.us.dll.mui
+C:\Program Files\Secret Net Studio\Client\Update Client\en-US\SNS.download_service.exe.mui
+C:\Program Files\Secret Net Studio\Client\Update Client\en-US\SNS.download_worker.exe.mui
+C:\Program Files\Secret Net Studio\Client\Update Client\en-US\SNS.messages.dll.mui
+C:\Program Files\Secret Net Studio\Client\Update Client\en-US\SNS.reporting.upd.dll.mui
+C:\Program Files\Secret Net Studio\Client\Update Client\en-US\SNS.resources.dll.mui
+C:\Program Files\Secret Net Studio\Client\Update Client\en-US\SNS.update_service.exe.mui
+===  Каталог <C:\Program Files\Secret Net Studio\Client\Update Client\ru-RU\>  42
+C:\Program Files\Secret Net Studio\Client\Update Client\ru-RU\SNS.agent_proxy.us.dll.mui
+C:\Program Files\Secret Net Studio\Client\Update Client\ru-RU\SNS.download_service.exe.mui
+C:\Program Files\Secret Net Studio\Client\Update Client\ru-RU\SNS.download_worker.exe.mui
+C:\Program Files\Secret Net Studio\Client\Update Client\ru-RU\SNS.messages.dll.mui
+C:\Program Files\Secret Net Studio\Client\Update Client\ru-RU\SNS.reporting.upd.dll.mui
+C:\Program Files\Secret Net Studio\Client\Update Client\ru-RU\SNS.resources.dll.mui
+C:\Program Files\Secret Net Studio\Client\Update Client\ru-RU\SNS.update_service.exe.mui
