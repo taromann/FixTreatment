@@ -1,22 +1,21 @@
 
 import java.io.IOException;
+import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.DirectoryStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
+import java.util.*;
 
 import static java.nio.charset.StandardCharsets.*;
 
 public class Main {
 
-    static Path reference = Paths.get("C:\\Users\\Компьютер\\Desktop\\FixProcessing\\reports\\reference");
-    static Path readyFix = Paths.get("C:\\Users\\Компьютер\\Desktop\\FixProcessing\\reports\\! Ready - fix");
-    static Path hosts = Paths.get("C:\\Users\\Компьютер\\Desktop\\FixProcessing\\reports\\hosts.txt");
-    static Path readyREPORTS = Paths.get("C:\\Users\\Компьютер\\Desktop\\FixProcessing\\reports\\ReadyReports");
+    private static final Path reference = Paths.get("C:\\Users\\Компьютер\\Desktop\\FixProcessing\\reports\\reference");
+    private static final Path readyFix = Paths.get("C:\\Users\\Компьютер\\Desktop\\FixProcessing\\reports\\! Ready - fix");
+    private static final Path hosts = Paths.get("C:\\Users\\Компьютер\\Desktop\\FixProcessing\\reports\\hosts.txt");
+    private static final Path readyREPORTS = Paths.get("C:\\Users\\Компьютер\\Desktop\\FixProcessing\\reports\\ReadyReports");
 
 
     public static void main(String[] args) throws IOException {
@@ -67,18 +66,20 @@ public class Main {
 
     private static void FileFixHandler(ArrayList<Path> filesToConvert) throws IOException {
         for (Path reportNewFile : filesToConvert) {
-
-            Path readyTXT = Paths.get(String.format("%s\\%s.txt", readyREPORTS, reportNewFile.getParent().getFileName()));
-            if (Files.exists(readyTXT)) {
-               Files.delete(readyTXT);
+            Path readyCSV = Paths.get(String.format("%s\\%s.csv", readyREPORTS, reportNewFile.getParent().getFileName()));
+            if (Files.exists(readyCSV)) {
+               Files.delete(readyCSV);
             }
-            Files.createFile(readyTXT);
-            List<String> lines = Files.readAllLines(reportNewFile, UTF_16);
+            Files.createFile(readyCSV);
+            String text = new String(Files.readAllBytes(reportNewFile), "windows-1251");
+            List<String> lines = Arrays.stream(text.split(System.lineSeparator())).toList();
+
             for (String line : lines) {
-                String utf8String= new String(line.getBytes("UTF-16"), "windows-1251");
-                System.out.println(utf8String);
-                String[] values = utf8String.split(",");
-                System.out.println(values[0]);
+                String[] values = line.split(",");
+//                System.out.println(Arrays.toString(values));
+                System.out.println(values[1]);
+                List<String> list = Arrays.asList(values);
+                Files.write(readyCSV, list);
             }
         }
     }
