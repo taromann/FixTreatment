@@ -15,16 +15,16 @@ public class Main {
 
 
     public static void main(String[] args) throws IOException {
-        HashMap<String, Path> referenceFixDirectories = getReferenceFixDirectories(reference);
-        ArrayList<Path> filesToConvert = copyThree(referenceFixDirectories, hosts);
+        Map<String, Path> referenceFixDirectories = getReferenceFixDirectories(reference);
+        List<Path> filesToConvert = copyThree(referenceFixDirectories, hosts);
         FileFixHandler(filesToConvert);
 
 
     }
 
-    private static ArrayList<Path> copyThree(HashMap source, Path hostsList) throws IOException {
+    private static List<Path> copyThree(Map source, Path hostsList) throws IOException {
         List<String> hostList = Files.readAllLines(hostsList);
-        ArrayList<Path> filesToConvert = new ArrayList<>();
+        List<Path> filesToConvert = new ArrayList<>();
         for (String host : hostList) {
             source.forEach((key, value) -> {
                 try {
@@ -42,9 +42,9 @@ public class Main {
         return filesToConvert;
     }
 
-    private static HashMap<String, Path> getReferenceFixDirectories(Path reference) throws IOException {
+    private static Map<String, Path> getReferenceFixDirectories(Path reference) throws IOException {
         DirectoryStream<Path> files = Files.newDirectoryStream(reference);
-        HashMap<String, Path> references = new HashMap<>();
+        Map<String, Path> references = new HashMap<>();
 
         for (Path file : files) {
             if (file.toString().endsWith("(K)")) {
@@ -82,15 +82,19 @@ public class Main {
 //                System.out.println(readyCSV);
 //                System.out.println(values.length);
                     StringBuilder sb = new StringBuilder();
-                    for (String value : values) {
-//                    out.write(value.getBytes());
-//                    byte[] bs = value.getBytes();
-                        sb.append(value).append(" ");
-//                        writer.write(value);
-                        System.out.println(value);
+                    for (int i = 0; i < values.length; i++) {
+                        sb.append(values[1]).append(" ");
                     }
+
+//                    for (String value : values) {
+////                    out.write(value.getBytes());
+////                    byte[] bs = value.getBytes();
+//                        sb.append(value).append(" ");
+////                        writer.write(value);
+////                        System.out.println(value);
+//                    }
                     writer.write(sb.toString().trim());
-                    System.out.println(sb);
+//                    System.out.println(sb);
                     writer.write("\r\n");
                 }
 //                out.write(values[3].getBytes());

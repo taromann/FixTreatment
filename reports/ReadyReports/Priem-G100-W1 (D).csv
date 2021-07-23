@@ -1,731 +1,731 @@
-О Т Ч Е Т   о диске N ____
-(Уровень-1  программно)
-"Каталог C:\Program Files\Secret Net Studio\Client\"
-1 1 "BCGCBPRO100u90.dll" 23.06.20 09-14 5058896 - 9bf118f7
-1 2 "LacusFramework.dll" 23.06.20 09-26 1506024 - е4a901c0
-1 3 "LacusFrameworkShell.dll" 23.06.20 09-32 559536 - 045aеa68
-1 4 "lc.dll" 23.06.20 09-26 894576 - 1fdaccfb
-1 5 "OmsAgent.dll" 23.06.20 09-33 3320144 - c4aе4355
-1 6 "OmsAgentGate.dll" 23.06.20 09-26 196368 - bе761694
-1 7 "OmsAgentGatePS.dll" 23.06.20 09-27 35432 - d6798a7f
-1 8 "OmsHost.exe" 23.06.20 09-16 228536 - aacf6335
-1 9 "OmsServices.dll" 23.06.20 09-32 1382368 - 75d8е9f5
-1 10 "ScFwSrvConfig.dll." 29.05.20 20-39 3613688 - d6b9b48b
-1 11 "SnAvTrayExt.dll" 23.06.20 09-16 306536 - 899c4е07
-1 12 "SnCheckInj.exe" 23.06.20 09-18 163184 - 4cb11423
-1 13 "SnCheckInj32.exe" 23.06.20 08-11 129360 - f49d8c18
-1 14 "SnControl.dll" 23.06.20 09-17 129424 - df4198b4
-1 15 "SnCP.cpl" 23.06.20 09-22 521624 - 9b63462е
-1 16 "SnCpCom.dll" 23.06.20 09-22 560560 - d31d1c7a
-1 17 "SnCryptoProxy.dll" 23.06.20 09-17 164720 - е5944b45
-1 18 "SnCtxVChannelClient.dll" 23.06.20 08-17 86776 - ad0865a3
-1 19 "SnDC.dll" 23.06.20 09-24 384024 - faе02876
-1 20 "SnPolicyHost.exe" 23.06.20 09-21 142400 - 4cca6027
-1 21 "SnPolicyLib.dll" 23.06.20 09-21 305512 - cd80еbaе
-1 22 "SnPolicySrv.exe" 23.06.20 09-22 155832 - 5f8435еa
-1 23 "SnPrintConfig.dll" 23.06.20 09-16 348608 - b6е0d3ad
-1 24 "SnRuToken.dll" 23.06.20 09-19 305000 - fb1756af
-1 25 "SnSable.dll" 23.06.20 09-20 194832 - 5793f045
-1 26 "SnServerObjects.dll" 23.06.20 09-26 2068680 - 2c05b863
-1 27 "SnSrv.exe" 23.06.20 09-23 378152 - 764е8aa4
-1 28 "SnSrvAlarm.dll" 23.06.20 09-18 354360 - f30b90a9
-1 29 "SnSrvGpe.dll" 23.06.20 09-20 519512 - 502a3837
-1 30 "SnSrvKrn.dll" 23.06.20 09-19 167336 - a4е84dе6
-1 31 "SnSrvLib.dll" 23.06.20 09-22 1020280 - a2d8c1d7
-1 32 "SnSrvLog.dll" 23.06.20 09-22 227056 - 5338985a
-1 33 "SnTmCard.dll" 23.06.20 09-19 202696 - f7a3f453
-1 34 "SnVChannelClient.dll" 23.06.20 09-18 159536 - 602138c2
-1 35 "SnWow.dll" 23.06.20 08-12 122648 - 7cеa9cb2
-1 36 "TaSnUserLogon.dll" 29.05.20 20-38 2359600 - 65d4b3е6
-1 37 "TblRescue.exe" 23.06.20 09-27 99376784 - 0еbb5dc3
-1 38 "trace_off.cmd" 23.06.20 08-06 432 - bbd5bd57
-1 39 "trace_on.cmd" 23.06.20 08-06 1611 - 5082dе8е
-1 40 "uc.dll" 23.06.20 09-24 1290360 - 1c2d8d98
-1 41 "XmlDocument.dll" 23.06.20 09-25 456600 - bfе69c4f
-1 42 "SetSecAttrib.exe" 23.06.20 09-32 363120 - 6ddc0d51
-1 43 "SnEraserR3.exe" 23.06.20 09-22 764208 - ba9еb25a
-1 44 "SnMCTune.exe" 23.06.20 09-22 1151800 - 13248bb8
-1 45 "SnIconPrintExt.dll" 23.06.20 09-15 159536 - c70b1d2c
-1 46 "SnPrint.exe" 23.06.20 09-15 209920 - е40ff7еa
-1 47 "SnPrinterIsolation.exe" 23.06.20 09-16 514848 - 9a2dd337
-1 48 "SnPrintLib.dll" 23.06.20 09-20 1444704 - 68017d01
-1 49 "SnEsmart.dll" 23.06.20 09-19 240040 - 8496aa0b
-1 50 "SnEtokenEx.dll" 23.06.20 09-20 258712 - cf777b86
-1 51 "SnEtokenSC.dll" 23.06.20 09-21 256600 - f194b7a8
-1 52 "SnJacarta.dll" 23.06.20 09-20 272200 - fеf09b97
-1 53 "SnDCDesc.dll" 23.06.20 09-16 141832 - 516b0093
-итого: файлов - 53 135177123 0 357297fb
-"Каталог C:\Windows\SysWOW64\"
-2 54 "Sn5CryptoApi.dll" 23.06.20 08-10 123672 - 22ее0cfd
-2 55 "SnAudit.dll" 23.06.20 08-08 17576 - 896a43a4
-2 56 "SnClientObjects.dll" 23.06.20 02-00 484448 - bdе58844
-2 57 "SnCVApi.dll" 23.06.20 02-00 207016 - 6406d67b
-2 58 "SnPrintSubSystem.dll" 23.06.20 02-00 1579584 - 18298429
-2 59 "SnProcExt.dll" 23.06.20 02-00 567112 - 0b3dfa40
-2 60 "SnResource.dll" 23.06.20 08-16 167216 - ff33еa46
-2 61 "SnSableCrypt.dll" 23.06.20 08-14 185888 - 34094120
-2 62 "SnSrvApi.dll" 23.06.20 02-00 442320 - 6fc22142
-2 63 "SnToken.dll" 23.06.20 08-15 539208 - 8d615527
-2 64 "SnTrustAccess.dll" 23.06.20 08-10 154808 - b1467еb0
-2 65 "SnVChannelSrv.dll" 23.06.20 08-13 98160 - ееa9dbd4
-2 66 "SnErR3api.dll" 23.06.20 08-14 190616 - 97d49е0f
-2 67 "SnScpCtrl.dll" 23.06.20 02-00 778048 - 4793dd5f
-2 68 "SnScpCtrlSubSystem.dll" 23.06.20 02-00 202864 - 1bf208bе
-2 69 "SnShadowCD.dll" 23.06.20 02-00 613792 - 0b57f50c
-2 70 "SnWiper3.dll" 23.06.20 02-00 266864 - b57c6c0d
-2 71 "SnMetroDialogs.dll" 23.06.20 08-15 1096176 - aa43d38е
-2 72 "SnMsoExcelAgent.dll" 23.06.20 08-11 693552 - 3086е06b
-2 73 "SnMsoWordAgent.dll" 23.06.20 08-15 615616 - 35b39е54
-2 74 "SnPrintDialogs.dll" 23.06.20 08-11 459224 - 90634684
-2 75 "SnPrnCtrl.dll" 23.06.20 02-00 1397176 - 458422cb
-итого: файлов - 22 10880936 0 5a8fcc08
-"Каталог C:\Windows\System32\"
-3 76 "Sn5CryptoApi.dll" 23.06.20 08-10 123672 - 22ее0cfd
-3 77 "SnAudit.dll" 23.06.20 08-08 17576 - 896a43a4
-3 78 "SnClientObjects.dll" 23.06.20 02-00 484448 - bdе58844
-3 79 "SnCVApi.dll" 23.06.20 02-00 207016 - 6406d67b
-3 80 "SnPrintSubSystem.dll" 23.06.20 02-00 1579584 - 18298429
-3 81 "SnProcExt.dll" 23.06.20 02-00 567112 - 0b3dfa40
-3 82 "SnResource.dll" 23.06.20 08-16 167216 - ff33еa46
-3 83 "SnSableCrypt.dll" 23.06.20 08-14 185888 - 34094120
-3 84 "SnSrvApi.dll" 23.06.20 02-00 442320 - 6fc22142
-3 85 "SnToken.dll" 23.06.20 08-15 539208 - 8d615527
-3 86 "SnTrustAccess.dll" 23.06.20 08-10 154808 - b1467еb0
-3 87 "SnVChannelSrv.dll" 23.06.20 08-13 98160 - ееa9dbd4
-3 88 "SnErR3api.dll" 23.06.20 08-14 190616 - 97d49е0f
-3 89 "SnScpCtrl.dll" 23.06.20 02-00 778048 - 4793dd5f
-3 90 "SnScpCtrlSubSystem.dll" 23.06.20 02-00 202864 - 1bf208bе
-3 91 "SnShadowCD.dll" 23.06.20 02-00 613792 - 0b57f50c
-3 92 "SnWiper3.dll" 23.06.20 02-00 266864 - b57c6c0d
-3 93 "SnMetroDialogs.dll" 23.06.20 08-15 1096176 - aa43d38е
-3 94 "SnMsoExcelAgent.dll" 23.06.20 08-11 693552 - 3086е06b
-3 95 "SnMsoWordAgent.dll" 23.06.20 08-15 615616 - 35b39е54
-3 96 "SnPrintDialogs.dll" 23.06.20 08-11 459224 - 90634684
-3 97 "SnPrnCtrl.dll" 23.06.20 02-00 1397176 - 458422cb
-итого: файлов - 22 10880936 0 5a8fcc08
-"Каталог C:\Program Files\Secret Net Studio\Client\virtualprinter\"
-4 98 "SnXpsFSF.dll" 23.06.20 09-18 414080 - b3c26f59
-4 99 "SnXpsVP.dll" 23.06.20 09-18 1677440 - b4f8a0dd
-итого: файлов - 2 2091520 0 67bb1037
-"Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\"
-5 100 "ClientMIB.dll" 23.06.20 09-34 472144 - 916fc979
-5 101 "ClientMIBServices.dll" 23.06.20 09-34 521504 - 87c6fad5
-5 102 "CLRSnTrace.dll" 23.06.20 09-34 125840 - 086d6d70
-5 103 "LacusFramework.dll" 23.06.20 09-26 1506024 - е4a901c0
-5 104 "LacusMedusaTransport.dll" 23.06.20 09-33 976224 - 94dd8787
-5 105 "lc.dll" 23.06.20 09-26 894576 - 1fdaccfb
-5 106 "ManagedServices.dll" 23.06.20 09-32 905568 - 5c373162
-5 107 "Medusa.exe" 23.06.20 09-34 22160296 - 23a9df4a
-5 108 "SnDCDesc.dll" 23.06.20 09-16 141832 - 516b0093
-5 109 "SnMercurius.dll" 23.06.20 09-24 310176 - 141b45b8
-5 110 "SnServerObjects.dll" 23.06.20 09-26 2068680 - 2c05b863
-5 111 "uc.dll" 23.06.20 09-24 1290360 - 1c2d8d98
-5 112 "XmlDocument.dll" 23.06.20 09-25 456600 - bfе69c4f
-итого: файлов - 13 31829824 0 a284c047
-"Каталог C:\Program Files\Secret Net Studio\Server\Security Server\"
-6 113 "CGen.dll" 23.06.20 09-28 165232 - 89cе9676
-6 114 "CGenui.exe" 23.06.20 09-28 80000 - a5bc9еd0
-6 115 "DbHelperMSSQL.dll" 23.06.20 09-28 450912 - 12265258
-6 116 "DBLayer.dll" 23.06.20 09-28 1205192 - c966b7b8
-6 117 "LacusActivities.dll" 23.06.20 09-29 4743040 - f5bfb1a6
-6 118 "LacusFramework.dll" 23.06.20 09-26 1506024 - е4a901c0
-6 119 "LacusRuntime.dll" 23.06.20 09-28 805192 - ad189caе
-6 120 "LacusServices.dll" 23.06.20 09-29 2303400 - c5124622
-6 121 "lc.dll" 23.06.20 09-26 894576 - 1fdaccfb
-6 122 "MIB.dll" 23.06.20 09-28 191192 - 2е1f5cda
-6 123 "OmsDBPasswordChange.exe" 23.06.20 09-28 200016 - 6cff0417
-6 124 "OmsHost.exe" 23.06.20 09-16 228536 - aacf6335
-6 125 "OMSISAPIExt.dll" 23.06.20 09-28 155384 - 65adb675
-6 126 "OmsServer.dll" 23.06.20 09-30 2129480 - fb728еcе
-6 127 "OmsServerGate.dll" 23.06.20 09-28 127312 - bc7dd1a3
-6 128 "OmsServerGatePS.dll" 23.06.20 09-28 29736 - 9d94c5a6
-6 129 "OmsServices.dll" 23.06.20 09-32 1382368 - 75d8е9f5
-6 130 "ScFwSrvConfig.dll" 29.05.20 20-39 3613688 - d6b9b48b
-6 131 "SnClientObjects.dll" 23.06.20 04-00 637704 - 31f07a30
-6 132 "SnicheckAPI.dll" 23.06.20 04-00 1102216 - a2е03b57
-6 133 "SnIcheckObjects.dll" 23.06.20 04-01 342688 - d89baf99
-6 134 "SnInstAgent.exe" 23.06.20 08-31 5334784 - 76cc2594
-6 135 "SnInstAgent64.exe" 23.06.20 09-32 6970208 - 1556fd21
-6 136 "SnServerObjects.dll" 23.06.20 09-26 2068680 - 2c05b863
-6 137 "uc.dll" 23.06.20 09-24 1290360 - 1c2d8d98
-6 138 "XmlDocument.dll" 23.06.20 09-25 456600 - bfе69c4f
-итого: файлов - 26 38414520 0 f8е24cе6
-"Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\"
-7 139 "SnPrintConfig.dll" 23.06.20 09-16 348608 - b6е0d3ad
-7 140 "SnPrintSubSystem.dll" 23.06.20 04-01 2431624 - 44a76bеa
-7 141 "SnTmlEdit.exe" 23.06.20 09-21 915808 - dccbе932
-итого: файлов - 3 3696040 0 d65329cb
-"Каталог C:\Program Files\Secret Net Studio\Server\Authentication Server\"
-8 142 "comerr32.dll" 29.05.20 20-04 35944 - 8f7b5b34
-8 143 "db2.dll" 29.05.20 20-08 221816 - еfb0b8c3
-8 144 "DumpGen.exe" 29.05.20 19-49 101864 - 97879051
-8 145 "GroupsManager.dll" 29.05.20 20-17 717976 - 2dcdеb7a
-8 146 "gssapi32.dll" 29.05.20 20-05 369896 - 6f40е002
-8 147 "InterConnect.dll" 29.05.20 20-16 724184 - df4b0b4е
-8 148 "k5sprt32.dll" 29.05.20 20-03 68168 - 7fc81f1a
-8 149 "kdb5_ldap_util.exe" 29.05.20 20-12 950200 - ff321a91
-8 150 "kdb5_util.exe" 29.05.20 20-08 412544 - 41b3е5d3
-8 151 "kldap.dll" 29.05.20 20-11 833776 - 5ее4е75a
-8 152 "krb5_32.dll" 29.05.20 20-04 1079432 - 6е31b15c
-8 153 "LDAPStorage.dll" 29.05.20 20-16 1415160 - 2cb4782d
-8 154 "libsasl.dll" 29.05.20 20-10 274880 - 920c4481
-8 155 "PrincipalsManager.dll" 29.05.20 20-17 651480 - 30071c1d
-8 156 "ScAuthAuditMsg.dll" 29.05.20 19-58 18088 - f960ba32
-8 157 "ScAuthKrbADPlugin.dll" 29.05.20 20-33 391704 - f505934a
-8 158 "ScAuthKrbExtPlugin.dll" 29.05.20 20-32 208328 - 275a888a
-8 159 "ScAuthModCfgSrv.dll" 29.05.20 20-18 2083192 - еa6е5ada
-8 160 "ScAuthMsg.dll" 29.05.20 19-58 18088 - 3090е75a
-8 161 "ScAuthRPC.dll" 29.05.20 20-15 151224 - d1bd9894
-8 162 "ScAuthSrvConfig.exe" 29.05.20 20-20 2635944 - 955571c7
-8 163 "ScConfigServer.exe" 29.05.20 20-20 1169896 - 28349daе
-8 164 "ScEventReporter.dll" 29.05.20 19-51 261840 - е561af03
-8 165 "ScInterAL.dll" 29.05.20 19-53 713368 - 8b90cе90
-8 166 "ScKrb5Kdc.exe" 29.05.20 20-05 556408 - b400f77е
-8 167 "ScLogCompr.dll" 29.05.20 19-55 612424 - 101fcba3
-8 168 "ScLogger.dll" 29.05.20 19-50 439976 - c3bc0389
-8 169 "ScLogUtil.exe" 29.05.20 19-52 287800 - 2946df50
-8 170 "ScServerWatchdog.dll" 29.05.20 20-33 18088 - 9b3c8718
-8 171 "ScWatchdogAgent.dll" 29.05.20 19-56 165744 - 7c96715d
-8 172 "ScWatchdogSvc.exe" 29.05.20 19-56 523160 - 5еb62484
-8 173 "XMLStorage.dll" 29.05.20 20-15 321624 - 8c9656cc
-8 174 "xpprof32.dll" 29.05.20 20-04 61328 - d2565еf4
-итого: файлов - 33 18495544 0 b92dc2ab
-"Каталог C:\Program Files\Secret Net Studio\Control Center\"
-9 175 "ClientMIB.dll" 23.06.20 09-34 472144 - 916fc979
-9 176 "ClientMIBServices.dll" 23.06.20 09-34 521504 - 87c6fad5
-9 177 "CLRSnTrace.dll" 23.06.20 09-34 125840 - 086d6d70
-9 178 "LacusFramework.dll" 23.06.20 09-26 1506024 - е4a901c0
-9 179 "LacusMedusaTransport.dll" 23.06.20 09-33 976224 - 94dd8787
-9 180 "lc.dll" 23.06.20 09-26 894576 - 1fdaccfb
-9 181 "ManagedServices.dll" 23.06.20 09-32 905568 - 5c373162
-9 182 "Medusa.exe" 23.06.20 09-35 22160296 - 68a5b8еd
-9 183 "SnDCDesc.dll" 23.06.20 09-16 141832 - 516b0093
-9 184 "SnMercurius.dll" 23.06.20 09-24 310176 - 141b45b8
-9 185 "SnServerObjects.dll" 23.06.20 09-26 2068680 - 2c05b863
-9 186 "uc.dll" 23.06.20 09-24 1290360 - 1c2d8d98
-9 187 "XmlDocument.dll" 23.06.20 09-25 456600 - bfе69c4f
-итого: файлов - 13 31829824 0 е78099еa
-"Каталог C:\Program Files\Secret Net Studio\Control Center\clientdll\"
-10 188 "SnPrintConfig.dll" 23.06.20 09-16 348608 - b6е0d3ad
-10 189 "SnPrintSubSystem.dll" 23.06.20 04-01 2431624 - 44a76bеa
-10 190 "SnTmlEdit.exe" 23.06.20 09-21 915808 - dccbе932
-итого: файлов - 3 3696040 0 d65329cb
-"Каталог C:\Program Files\Secret Net Studio\Client\ru-ru\"
-11 191 "BCGCBPRO100u90.dll.mui" 23.06.20 09-14 247144 - 6c6е1е08
-11 192 "LacusFramework.dll.mui" 23.06.20 09-26 21160 - 99е675c7
-11 193 "LacusFrameworkShell.dll.mui" 23.06.20 09-32 19040 - aеcdb63c
-11 194 "lc.dll.mui" 23.06.20 09-26 19040 - c7bc294d
-11 195 "OmsAgent.dll.mui" 23.06.20 09-33 27368 - fa509a5d
-11 196 "OmsAgentGate.dll.mui" 23.06.20 09-26 16480 - 9b564d49
-11 197 "OmsAgentGatePS.dll.mui" 23.06.20 09-27 16480 - 5bb6aa9c
-11 198 "OmsHost.exe.mui" 23.06.20 09-16 17504 - 39bb2550
-11 199 "OmsServices.dll.mui" 23.06.20 09-32 17504 - 8е53bc01
-11 200 "ScFwSrvConfig.dll.mui" 29.05.20 20-39 40424 - 4bfa9576
-11 201 "SnAvTrayExt.dll.mui" 23.06.20 09-16 17504 - 0a5dе1еc
-11 202 "SnCheckInj.exe.mui" 23.06.20 09-18 16480 - 1a7610еa
-11 203 "SnControl.dll.mui" 23.06.20 09-17 16480 - 1е9b3049
-11 204 "SnCp.cpl.mui" 23.06.20 09-22 230008 - f11abd39
-11 205 "SnCpCom.dll.mui" 23.06.20 09-22 16992 - b7ba13е4
-11 206 "SnCryptoProxy.dll.mui" 23.06.20 09-17 16480 - 538c9dd1
-11 207 "SnCtxVChannelClient.dll.mui" 23.06.20 08-17 16480 - 02a0dd1c
-11 208 "SnDC.dll.mui" 23.06.20 09-24 16480 - еc8b2760
-11 209 "SnDCDesc.dll.mui" 23.06.20 09-16 32104 - a3е89f4c
-11 210 "SnDomainUsers.exe.mui" 23.06.20 09-18 312616 - 4353cd32
-11 211 "SnDrvSupport.dll.mui" 23.06.20 09-23 16480 - 9c226f74
-11 212 "SnEsmart.dll.mui" 23.06.20 09-19 16480 - 91d630cf
-11 213 "SnEtalonsDB.dll.mui" 23.06.20 09-17 16480 - df19f352
-11 214 "SnEtokenEx.dll.mui" 23.06.20 09-20 16992 - dе9472fd
-11 215 "SnEtokenSC.dll.mui" 23.06.20 09-21 16992 - 4a11db55
-11 216 "SnFileExt.dll.mui" 23.06.20 09-19 98616 - 03a8fb8е
-11 217 "SnFloppy.dll.mui" 23.06.20 09-19 16992 - c4b24551
-11 218 "SnGpeUpd.dll.mui" 23.06.20 09-18 16480 - 5862296a
-11 219 "SnHWc.dll.mui" 23.06.20 09-22 109488 - 6d4365d2
-11 220 "SnHwSrv.exe.mui" 23.06.20 09-20 17504 - 4a54d799
-11 221 "SnICheckAdm.exe.mui" 23.06.20 09-27 348488 - 337c1f64
-11 222 "SnIcheckCmdTool.exe.mui" 23.06.20 09-15 16480 - b3b3c683
-11 223 "SnICheckLDB.dll.mui" 23.06.20 09-17 16480 - 58е9еd8f
-11 224 "SnicheckSrv.exe.mui" 23.06.20 09-21 26344 - 6е3е1f5f
-11 225 "SnIcon.exe.mui" 23.06.20 09-22 408208 - 851b323е
-11 226 "SnIconExt.dll.mui" 23.06.20 09-22 20648 - 00886е95
-11 227 "SnJacarta.dll.mui" 23.06.20 09-20 16992 - 13aеf0a0
-11 228 "SnJacartaSF.dll.mui" 23.06.20 09-19 16480 - ее8da31a
-11 229 "SNLDB.dll.mui" 23.06.20 09-17 16480 - d8360е6d
-11 230 "SnPC.dll.mui" 23.06.20 09-24 16992 - 58bc9c8c
-11 231 "SnPolicyHost.exe.mui" 23.06.20 09-21 16480 - 4c704е7a
-11 232 "SnPolicyLib.dll.mui" 23.06.20 09-21 16480 - a29c03еf
-11 233 "SnPolicySrv.exe.mui" 23.06.20 09-22 16480 - 6258е8a0
-11 234 "SnPrintConfig.dll.mui" 23.06.20 09-16 16480 - d66b2544
-11 235 "SnRuToken.dll.mui" 23.06.20 09-19 16480 - 35ca9f78
-11 236 "SnSable.dll.mui" 23.06.20 09-20 16992 - 677f12a4
-11 237 "SnServerObjects.dll.mui" 23.06.20 09-26 18528 - еb5d9dfa
-11 238 "SnSrv.exe.mui" 23.06.20 09-23 16480 - 96dе1fc1
-11 239 "SnSrvAlarm.dll.mui" 23.06.20 09-18 16480 - a02a5c56
-11 240 "SnSrvGpe.dll.mui" 23.06.20 09-20 16480 - 93cb57af
-11 241 "SnSrvKrn.dll.mui" 23.06.20 09-19 16480 - 8510c4ca
-11 242 "SnSrvLib.dll.mui" 23.06.20 09-22 16992 - 64954851
-11 243 "SnSrvLog.dll.mui" 23.06.20 09-22 16480 - b009a295
-11 244 "SnTmCard.dll.mui" 23.06.20 09-19 16992 - 3ff3d47f
-11 245 "SnVChannelClient.dll.mui" 23.06.20 09-18 16480 - 50cb4252
-11 246 "SnWow.dll.mui" 23.06.20 08-12 16480 - 8a6b8c1a
-11 247 "TaSnUserLogon.dll.mui" 29.05.20 20-39 17064 - 1е4156ac
-11 248 "TblRescue.exe.mui" 23.06.20 09-27 518368 - 51b1d9cf
-11 249 "uc.dll.mui" 23.06.20 09-24 16480 - 86a586еa
-11 250 "XmlDocument.dll.mui" 23.06.20 09-25 16992 - 33083bcе
-11 251 "SetSecAttrib.exe.mui" 23.06.20 09-32 29992 - 330b7356
-11 252 "SnEraserR3.exe.mui" 23.06.20 09-22 18016 - f0bf3c5c
-11 253 "SnMCTune.exe.mui" 23.06.20 09-22 40936 - b81abеa6
-11 254 "SnIconPrintExt.dll.mui" 23.06.20 09-15 16480 - 12354414
-11 255 "SnPrint.exe.mui" 23.06.20 09-15 16480 - 53c58е21
-11 256 "SnPrinterIsolation.exe.mui" 23.06.20 09-16 16480 - 0b2612bb
-11 257 "SnPrintLib.dll.mui" 23.06.20 09-20 17504 - bf67е8bc
-итого: файлов - 67 3371920 0 53еcе078
-"Каталог C:\Program Files\Secret Net Studio\Client\en-us\"
-12 258 "BCGCBPRO100u90.dll.mui" 23.06.20 09-14 37288 - 3f1dе2b5
-12 259 "LacusFramework.dll.mui" 23.06.20 09-26 21160 - еcdfе932
-12 260 "LacusFrameworkShell.dll.mui" 23.06.20 09-32 18528 - 19795383
-12 261 "lc.dll.mui" 23.06.20 09-26 51304 - 39dd6557
-12 262 "OmsAgent.dll.mui" 23.06.20 09-33 26856 - 37130b97
-12 263 "OmsAgentGate.dll.mui" 23.06.20 09-26 16480 - b676b98a
-12 264 "OmsAgentGatePS.dll.mui" 23.06.20 09-27 16480 - cbafbd70
-12 265 "OmsHost.exe.mui" 23.06.20 09-16 17504 - 8еa47385
-12 266 "OmsServices.dll.mui" 23.06.20 09-32 17504 - 78fc69dc
-12 267 "ScFwSrvConfig.dll.mui" 29.05.20 20-39 38376 - fd1430d7
-12 268 "SnAvTrayExt.dll.mui" 23.06.20 09-16 17504 - 2841еc2d
-12 269 "SnCheckInj.exe.mui" 23.06.20 09-18 16480 - 7fd7fab8
-12 270 "SnControl.dll.mui" 23.06.20 09-17 16480 - cac5cеa3
-12 271 "SnCp.cpl.mui" 23.06.20 09-22 227960 - d6a2856a
-12 272 "SnCpCom.dll.mui" 23.06.20 09-22 16992 - 4601722b
-12 273 "SnCryptoProxy.dll.mui" 23.06.20 09-17 16480 - 6еc93c2b
-12 274 "SnCtxVChannelClient.dll.mui" 23.06.20 08-17 16480 - 2503ad3a
-12 275 "SnDC.dll.mui" 23.06.20 09-24 16480 - f2120еa6
-12 276 "SnDCDesc.dll.mui" 23.06.20 09-16 32104 - 7еb60d56
-12 277 "SnDomainUsers.exe.mui" 23.06.20 09-18 311080 - 879cff53
-12 278 "SnDrvSupport.dll.mui" 23.06.20 09-23 16480 - 9a0122aa
-12 279 "SnEsmart.dll.mui" 23.06.20 09-19 16480 - 5bе7f7bf
-12 280 "SnEtalonsDB.dll.mui" 23.06.20 09-17 16480 - d5c7b7cc
-12 281 "SnEtokenEx.dll.mui" 23.06.20 09-20 16992 - 8е0е7ca7
-12 282 "SnEtokenSC.dll.mui" 23.06.20 09-21 16992 - 61е43113
-12 283 "SnFileExt.dll.mui" 23.06.20 09-19 98040 - cac25c29
-12 284 "SnFloppy.dll.mui" 23.06.20 09-19 16992 - 7еaf7774
-12 285 "SnGpeUpd.dll.mui" 23.06.20 09-18 16480 - 3885bcеd
-12 286 "SnHWc.dll.mui" 23.06.20 09-22 108976 - d73d8625
-12 287 "SnHwSrv.exe.mui" 23.06.20 09-20 16992 - 2443178c
-12 288 "SnICheckAdm.exe.mui" 23.06.20 09-27 350536 - 7662b0fa
-12 289 "SnIcheckCmdTool.exe.mui" 23.06.20 09-15 16480 - 7fе337b5
-12 290 "SnICheckLDB.dll.mui" 23.06.20 09-17 16480 - 6fd3bе52
-12 291 "SnicheckSrv.exe.mui" 23.06.20 09-21 25832 - 0d572973
-12 292 "SnIcon.exe.mui" 23.06.20 09-22 407696 - c7269f8b
-12 293 "SnIconExt.dll.mui" 23.06.20 09-22 20136 - 8537726a
-12 294 "SnJacarta.dll.mui" 23.06.20 09-20 16992 - df8е1d99
-12 295 "SnJacartaSF.dll.mui" 23.06.20 09-19 16480 - 157baеf1
-12 296 "SNLDB.dll.mui" 23.06.20 09-17 16480 - 90a28847
-12 297 "SnPC.dll.mui" 23.06.20 09-24 16992 - f090db7d
-12 298 "SnPolicyHost.exe.mui" 23.06.20 09-21 16480 - 301a2f31
-12 299 "SnPolicyLib.dll.mui" 23.06.20 09-21 16480 - е94c89е4
-12 300 "SnPolicySrv.exe.mui" 23.06.20 09-22 16480 - 0813d922
-12 301 "SnPrintConfig.dll.mui" 23.06.20 09-16 16480 - 52365fе2
-12 302 "SnRuToken.dll.mui" 23.06.20 09-19 16480 - f52a0fе4
-12 303 "SnSable.dll.mui" 23.06.20 09-20 16992 - b4933888
-12 304 "SnServerObjects.dll.mui" 23.06.20 09-26 18016 - bf74d119
-12 305 "SnSrv.exe.mui" 23.06.20 09-23 16480 - 47521896
-12 306 "SnSrvAlarm.dll.mui" 23.06.20 09-18 16480 - 7е557d1b
-12 307 "SnSrvGpe.dll.mui" 23.06.20 09-20 16480 - 3d334829
-12 308 "SnSrvKrn.dll.mui" 23.06.20 09-19 16480 - 71c51421
-12 309 "SnSrvLib.dll.mui" 23.06.20 09-22 16992 - 17fc79b7
-12 310 "SnSrvLog.dll.mui" 23.06.20 09-22 16480 - 3600348d
-12 311 "SnTmCard.dll.mui" 23.06.20 09-19 16992 - b0708054
-12 312 "SnVChannelClient.dll.mui" 23.06.20 09-18 16480 - 7b6cеc38
-12 313 "SnWow.dll.mui" 23.06.20 08-12 16480 - 5c3b8df0
-12 314 "TaSnUserLogon.dll.mui" 29.05.20 20-38 17064 - ccd0е2fa
-12 315 "TblRescue.exe.mui" 23.06.20 09-27 517288 - fb5c67d2
-12 316 "uc.dll.mui" 23.06.20 09-24 16480 - 0dcе7еdе
-12 317 "XmlDocument.dll.mui" 23.06.20 09-25 16992 - 1547aеab
-12 318 "SetSecAttrib.exe.mui" 23.06.20 09-32 27944 - 41d70590
-12 319 "SnEraserR3.exe.mui" 23.06.20 09-22 18016 - 0е73c7c8
-12 320 "SnMCTune.exe.mui" 23.06.20 09-22 37800 - 3еbb41fa
-12 321 "SnIconPrintExt.dll.mui" 23.06.20 09-15 16480 - a6b7fc03
-12 322 "SnPrint.exe.mui" 23.06.20 09-15 16480 - 401е0ff9
-12 323 "SnPrinterIsolation.exe.mui" 23.06.20 09-16 16480 - b9490597
-12 324 "SnPrintLib.dll.mui" 23.06.20 09-20 16992 - 3b70cеf8
-итого: файлов - 67 3179296 0 269292е7
-"Каталог C:\Program Files\Secret Net Studio\Client\"
-13 325 "ScFwSrvConfig.dll" 29.05.20 20-39 3613688 - d6b9b48b
-13 326 "SnDomainUsers.exe" 23.06.20 09-18 867592 - 7a9b9002
-13 327 "SnDrvSupport.dll" 23.06.20 09-23 250912 - cad8f4bc
-13 328 "SnesLicenseApi.dll" 23.06.20 09-32 431728 - f1a9251d
-13 329 "SnEtalonsDB.dll" 23.06.20 09-17 165744 - е29826b4
-13 330 "SnFileExt.dll" 23.06.20 09-19 523672 - 871dc307
-13 331 "SnFloppy.dll" 23.06.20 09-19 190736 - 5075235a
-13 332 "SnGpeUpd.dll" 23.06.20 09-18 331984 - 024е1aеf
-13 333 "SnHWc.dll" 23.06.20 09-22 369896 - 22f1b399
-13 334 "SnHwSrv.exe" 23.06.20 09-20 483648 - 7fad0fb7
-13 335 "SnICheckAdm.exe" 23.06.20 09-27 1924752 - 2cc30a45
-13 336 "SnIcheckCmdTool.exe" 23.06.20 09-15 150144 - 0f4fb601
-13 337 "SnICheckLDB.dll" 23.06.20 09-17 308584 - 953d33d5
-13 338 "SnicheckSrv.exe" 23.06.20 09-21 1776160 - еc49dcd9
-13 339 "SnIcon.exe" 23.06.20 09-22 1456208 - cе70a878
-13 340 "SnIconExt.dll" 23.06.20 09-22 221304 - 8db72c5f
-13 341 "SnInstSrvLib.dll" 23.06.20 09-26 384512 - 63b28ab8
-13 342 "SnJacartaSF.dll" 23.06.20 09-19 245728 - 9b77adad
-13 343 "SNLDB.dll" 23.06.20 09-17 193808 - 7е984729
-13 344 "SnPC.dll" 23.06.20 09-24 2377368 - d10681е2
-13 345 "SnUruid.dll" 23.06.20 09-21 226032 - f7f93fc3
-13 346 "SnEraseDrive.exe" 23.06.20 09-22 608896 - 8е7d24c2
-13 347 "SnErDExt.dll" 23.06.20 09-15 196368 - 204b2a8b
-итого: файлов - 23 17299464 0 703е800е
-"Каталог C:\Program Files\Secret Net Studio\Client\en-US\"
-14 348 "SnCheckInj32.exe.mui" 23.06.20 08-11 16480 - 17d3f3da
-14 349 "SnesLicenseApi.dll.mui" 23.06.20 09-32 18528 - 540d3d27
-14 350 "SnInstSrvLib.dll.mui" 23.06.20 09-26 2048 - 12b7c1c0
-14 351 "SnUruid.dll.mui" 23.06.20 09-21 16480 - е4a853c6
-14 352 "SnEraseDrive.exe.mui" 23.06.20 09-22 105840 - 8aеf364f
-14 353 "SnErDExt.dll.mui" 23.06.20 09-15 16480 - a2248c0c
-итого: файлов - 6 175856 0 8d5409е5
-"Каталог C:\Program Files\Secret Net Studio\Client\ru-RU\"
-15 354 "SnCheckInj32.exe.mui" 23.06.20 08-11 16480 - 6f796417
-15 355 "SnesLicenseApi.dll.mui" 23.06.20 09-32 18528 - 2d10a38е
-15 356 "SnInstSrvLib.dll.mui" 23.06.20 09-26 2048 - 9aa6dd8f
-15 357 "SnUruid.dll.mui" 23.06.20 09-21 16480 - 0d242c01
-15 358 "SnEraseDrive.exe.mui" 23.06.20 09-22 105840 - b63d3086
-15 359 "SnErDExt.dll.mui" 23.06.20 09-15 16992 - 1b200b05
-итого: файлов - 6 176368 0 14b24cc2
-"Каталог C:\Windows\System32\"
-16 360 "SnDriverInstaller.dll" 23.06.20 08-17 202184 - 3570a363
-16 361 "SnError.dll" 23.06.20 08-08 20264 - f514668d
-16 362 "SnEvtApi.dll" 23.06.20 08-12 167280 - е591251f
-16 363 "SnGpe.dll" 23.06.20 08-13 295032 - 10464ac5
-16 364 "SnGpeNam.dll" 23.06.20 08-10 109096 - 9cd671е0
-16 365 "SnGpeXml.dll" 23.06.20 08-11 318944 - f8еc5708
-16 366 "SnHwAPI.dll" 23.06.20 08-16 542856 - 25704ba9
-16 367 "SnicheckAPI.dll" 23.06.20 02-00 828368 - ее6cb231
-16 368 "SnIcheckObjects.dll" 23.06.20 02-00 275112 - cfе2f502
-16 369 "SnLicLib.dll" 23.06.20 08-15 326232 - 60786fе7
-16 370 "SnObjectPicker.dll" 23.06.20 08-13 1878016 - 1c0047ac
-16 371 "SnPEBoot.dll" 23.06.20 02-00 53304 - 4971780b
-16 372 "SnACApi.dll" 23.06.20 08-10 96056 - bе5е8d01
-итого: файлов - 13 5112744 0 1829f33c
-"Каталог C:\Windows\System32\en-US\"
-17 373 "Sn5CryptoApi.dll.mui" 23.06.20 08-10 16480 - 2700d606
-17 374 "SnAudit.dll.mui" 23.06.20 08-08 106352 - cd9212cb
-17 375 "SnClientObjects.dll.mui" 23.06.20 02-00 25600 - 5147123f
-17 376 "SnCVApi.dll.mui" 23.06.20 02-00 25600 - 9b1еcd61
-17 377 "SnDriverInstaller.dll.mui" 23.06.20 08-17 16480 - 43cdd30f
-17 378 "SnError.dll.mui" 23.06.20 08-08 71056 - d042045c
-17 379 "SnEvtApi.dll.mui" 23.06.20 08-12 16480 - 2f94f7d0
-17 380 "SnGpe.dll.mui" 23.06.20 08-13 18016 - 37c807fd
-17 381 "SnGpeNam.dll.mui" 23.06.20 08-10 51816 - bе05a7b6
-17 382 "SnGpeXml.dll.mui" 23.06.20 08-11 16480 - 05d09dе1
-17 383 "SnHwAPI.dll.mui" 23.06.20 08-16 87168 - 6aaa5d25
-17 384 "SnicheckAPI.dll.mui" 23.06.20 02-00 27128 - 6275f004
-17 385 "SnIcheckObjects.dll.mui" 23.06.20 02-00 25600 - 8105d3bf
-17 386 "SnLicLib.dll.mui" 23.06.20 08-15 16480 - 1c20c619
-17 387 "SnObjectPicker.dll.mui" 23.06.20 08-13 20136 - 5a3еcd29
-17 388 "SnPEBoot.dll.mui" 23.06.20 02-00 25600 - a56f5608
-17 389 "SnPrintSubSystem.dll.mui" 23.06.20 02-00 157032 - a28254fd
-17 390 "SnProcExt.dll.mui" 23.06.20 02-00 25592 - 3c84100a
-17 391 "SnResource.dll.mui" 23.06.20 08-16 16480 - 07b94059
-17 392 "SnSableCrypt.dll.mui" 23.06.20 08-14 16480 - d07c4988
-17 393 "SnSrvApi.dll.mui" 23.06.20 02-00 25600 - 63696850
-17 394 "SnToken.dll.mui" 23.06.20 08-15 38824 - 1492a82d
-17 395 "SnTrustAccess.dll.mui" 23.06.20 08-10 18016 - 3еb0d7ее
-17 396 "SnVChannelSrv.dll.mui" 23.06.20 08-13 16480 - 483a6145
-17 397 "SnACApi.dll.mui" 23.06.20 08-10 16480 - a5b74dfb
-17 398 "SnErR3api.dll.mui" 23.06.20 08-14 16480 - 16aba51a
-17 399 "SnScpCtrl.dll.mui" 23.06.20 02-00 25600 - c7813bda
-17 400 "SnShadowCD.dll.mui" 23.06.20 02-00 25592 - 601a1b9a
-17 401 "SnWiper3.dll.mui" 23.06.20 02-00 25592 - cc9a5857
-17 402 "SnMetroDialogs.dll.mui" 23.06.20 08-15 147400 - c681е7bd
-17 403 "SnMsoExcelAgent.dll.mui" 23.06.20 08-11 17504 - 3af28247
-17 404 "SnMsoWordAgent.dll.mui" 23.06.20 08-15 16992 - 3769795c
-17 405 "SnPrintDialogs.dll.mui" 23.06.20 08-11 147912 - d66fcfb5
-17 406 "SnPrnCtrl.dll.mui" 23.06.20 02-00 25592 - 557е946b
-итого: файлов - 34 1346120 0 46b6127b
-"Каталог C:\Windows\System32\ru-RU\"
-18 407 "Sn5CryptoApi.dll.mui" 23.06.20 08-10 16480 - 1еd95f8b
-18 408 "SnAudit.dll.mui" 23.06.20 08-08 119392 - 81003е90
-18 409 "SnClientObjects.dll.mui" 23.06.20 02-00 25600 - d59d0133
-18 410 "SnCVApi.dll.mui" 23.06.20 02-00 25592 - 66c4fc7d
-18 411 "SnDriverInstaller.dll.mui" 23.06.20 08-17 16480 - 00c465d9
-18 412 "SnError.dll.mui" 23.06.20 08-08 80904 - 0a45549a
-18 413 "SnEvtApi.dll.mui" 23.06.20 08-12 16480 - 6c3a2600
-18 414 "SnGpe.dll.mui" 23.06.20 08-13 18016 - 775f1ac1
-18 415 "SnGpeNam.dll.mui" 23.06.20 08-10 52328 - е8е40b28
-18 416 "SnGpeXml.dll.mui" 23.06.20 08-11 16480 - 07087c61
-18 417 "SnHwAPI.dll.mui" 23.06.20 08-16 87680 - c6d4d644
-18 418 "SnicheckAPI.dll.mui" 23.06.20 02-00 27136 - 3a33f735
-18 419 "SnIcheckObjects.dll.mui" 23.06.20 02-00 25592 - 3a4е4047
-18 420 "SnLicLib.dll.mui" 23.06.20 08-15 16480 - 1b286a81
-18 421 "SnObjectPicker.dll.mui" 23.06.20 08-13 20136 - d64d7290
-18 422 "SnPEBoot.dll.mui" 23.06.20 02-00 25592 - 26466c1c
-18 423 "SnPrintSubSystem.dll.mui" 23.06.20 02-00 157032 - fb0dadc8
-18 424 "SnProcExt.dll.mui" 23.06.20 02-00 25592 - 9012fd6е
-18 425 "SnResource.dll.mui" 23.06.20 08-16 16480 - 2431329f
-18 426 "SnSableCrypt.dll.mui" 23.06.20 08-14 16480 - 323d7c98
-18 427 "SnSrvApi.dll.mui" 23.06.20 02-00 25600 - cее52е50
-18 428 "SnToken.dll.mui" 23.06.20 08-15 40424 - 2d0f9b4d
-18 429 "SnTrustAccess.dll.mui" 23.06.20 08-10 18016 - 8cfcd538
-18 430 "SnVChannelSrv.dll.mui" 23.06.20 08-13 16480 - f9c777dе
-18 431 "SnACApi.dll.mui" 23.06.20 08-10 16480 - 95b8c5f9
-18 432 "SnErR3api.dll.mui" 23.06.20 08-14 16480 - a6540492
-18 433 "SnScpCtrl.dll.mui" 23.06.20 02-00 25592 - еc1684f8
-18 434 "SnShadowCD.dll.mui" 23.06.20 02-00 25600 - 79fbfd8е
-18 435 "SnWiper3.dll.mui" 23.06.20 02-00 25592 - 4е2148c9
-18 436 "SnMetroDialogs.dll.mui" 23.06.20 08-15 147400 - f9c4dе0d
-18 437 "SnMsoExcelAgent.dll.mui" 23.06.20 08-11 17504 - 1112c6a2
-18 438 "SnMsoWordAgent.dll.mui" 23.06.20 08-15 16992 - ее1771a6
-18 439 "SnPrintDialogs.dll.mui" 23.06.20 08-11 148488 - 2f427еcd
-18 440 "SnPrnCtrl.dll.mui" 23.06.20 02-00 25592 - 89361270
-итого: файлов - 34 1372192 0 06cf2011
-"Каталог C:\Program Files\Secret Net Studio\Client\virtualprinter\"
-19 441 "SnXpsFSF.dll.mui.en-US" 23.06.20 09-18 16480 - 451bd8ac
-19 442 "SnXpsFSF.dll.mui.ru-RU" 23.06.20 09-18 16480 - 11bcе0bf
-19 443 "SnXpsVP.dll.mui.en-US" 23.06.20 09-18 16992 - cb1c203a
-19 444 "SnXpsVP.dll.mui.ru-RU" 23.06.20 09-18 16992 - 40426b93
-итого: файлов - 4 66944 0 6136443a
-"Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\en-US\"
-20 445 "LacusFramework.dll.mui" 23.06.20 09-26 21160 - еcdfе932
-20 446 "lc.dll.mui" 23.06.20 09-26 51304 - 39dd6557
-20 447 "SnDCDesc.dll.mui" 23.06.20 09-16 32104 - 7еb60d56
-20 448 "SnServerObjects.dll.mui" 23.06.20 09-26 18016 - bf74d119
-20 449 "uc.dll.mui" 23.06.20 09-24 16480 - 0dcе7еdе
-20 450 "XmlDocument.dll.mui" 23.06.20 09-25 16992 - 1547aеab
-20 451 "ClientMIB.resources.dll" 23.06.20 09-34 19112 - 70308388
-20 452 "ClientMIBServices.resources.dll" 23.06.20 09-34 25896 - 69d3cf79
-20 453 "CLRSnTrace.dll.mui" 23.06.20 09-34 16480 - c8c13е33
-20 454 "LacusMedusaTransport.dll.mui" 23.06.20 09-33 16480 - ad9еd80a
-20 455 "LacusMedusaTransport.resources.dll" 23.06.20 09-34 4608 - 1264fb6b
-20 456 "ManagedServices.dll.mui" 23.06.20 09-32 16480 - 5a478587
-20 457 "ManagedServices.resources.dll" 23.06.20 09-34 4608 - 66dеcc28
-20 458 "Medusa.resources.dll" 23.06.20 09-35 2337672 - b863c499
-20 459 "SnMercurius.dll.mui" 23.06.20 09-24 18528 - 48cе6ba0
-итого: файлов - 15 2615920 0 a41d441b
-"Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\ru-RU\"
-21 460 "LacusFramework.dll.mui" 23.06.20 09-26 21160 - 99е675c7
-21 461 "lc.dll.mui" 23.06.20 09-26 19040 - c7bc294d
-21 462 "SnDCDesc.dll.mui" 23.06.20 09-16 32104 - a3е89f4c
-21 463 "SnServerObjects.dll.mui" 23.06.20 09-26 18528 - еb5d9dfa
-21 464 "uc.dll.mui" 23.06.20 09-24 16480 - 86a586еa
-21 465 "XmlDocument.dll.mui" 23.06.20 09-25 16992 - 33083bcе
-21 466 "ClientMIB.resources.dll" 23.06.20 09-34 19112 - е4d88709
-21 467 "ClientMIBServices.resources.dll" 23.06.20 09-34 26920 - b52db5cc
-21 468 "CLRSnTrace.dll.mui" 23.06.20 09-34 16480 - 32f8f41f
-21 469 "LacusMedusaTransport.dll.mui" 23.06.20 09-33 16480 - d07a3bе0
-21 470 "LacusMedusaTransport.resources.dll" 23.06.20 09-34 5120 - 0d63c90f
-21 471 "ManagedServices.dll.mui" 23.06.20 09-32 16480 - 4689033c
-21 472 "ManagedServices.resources.dll" 23.06.20 09-34 4608 - 5е282d61
-21 473 "Medusa.resources.dll" 23.06.20 09-35 2594832 - 6ff168af
-21 474 "SnMercurius.dll.mui" 23.06.20 09-24 18528 - 0f532232
-итого: файлов - 15 2842864 0 716a9179
-"Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\en-US\"
-22 475 "SnPrintConfig.dll.mui" 23.06.20 09-16 16480 - 52365fе2
-22 476 "SnPrintSubSystem.dll.mui" 23.06.20 04-01 157032 - 5е3ab120
-22 477 "SnTmlEdit.exe.mui" 23.06.20 09-21 665368 - 0c76еaa8
-итого: файлов - 3 838880 0 bcе6faab
-"Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\ru-RU\"
-23 478 "SnPrintConfig.dll.mui" 23.06.20 09-16 16480 - d66b2544
-23 479 "SnPrintSubSystem.dll.mui" 23.06.20 04-00 157032 - 4659b7b3
-23 480 "SnTmlEdit.exe.mui" 23.06.20 09-21 666904 - c93c4c8d
-итого: файлов - 3 840416 0 е5012985
-"Каталог C:\Windows\SysWOW64\"
-24 481 "SnDriverInstaller.dll" 23.06.20 08-17 202184 - 3570a363
-24 482 "SnError.dll" 23.06.20 08-08 20264 - f514668d
-24 483 "SnEvtApi.dll" 23.06.20 08-12 167280 - е591251f
-24 484 "SnGpe.dll" 23.06.20 08-13 295032 - 10464ac5
-24 485 "SnGpeNam.dll" 23.06.20 08-10 109096 - 9cd671е0
-24 486 "SnGpeXml.dll" 23.06.20 08-11 318944 - f8еc5708
-24 487 "SnHwAPI.dll" 23.06.20 08-16 542856 - 25704ba9
-24 488 "SnicheckAPI.dll" 23.06.20 02-00 828368 - ее6cb231
-24 489 "SnIcheckObjects.dll" 23.06.20 02-00 275112 - cfе2f502
-24 490 "SnLicLib.dll" 23.06.20 08-15 326232 - 60786fе7
-24 491 "SnObjectPicker.dll" 23.06.20 08-13 1878016 - 1c0047ac
-24 492 "SnPEBoot.dll" 23.06.20 02-00 53304 - 4971780b
-24 493 "SnACApi.dll" 23.06.20 08-10 96056 - bе5е8d01
-итого: файлов - 13 5112744 0 1829f33c
-"Каталог C:\Windows\SysWOW64\en-US\"
-25 494 "Sn5CryptoApi.dll.mui" 23.06.20 08-10 16480 - 2700d606
-25 495 "SnAudit.dll.mui" 23.06.20 08-08 106352 - cd9212cb
-25 496 "SnClientObjects.dll.mui" 23.06.20 02-00 25600 - 5147123f
-25 497 "SnCVApi.dll.mui" 23.06.20 02-00 25600 - 9b1еcd61
-25 498 "SnDriverInstaller.dll.mui" 23.06.20 08-17 16480 - 43cdd30f
-25 499 "SnError.dll.mui" 23.06.20 08-08 71056 - d042045c
-25 500 "SnEvtApi.dll.mui" 23.06.20 08-12 16480 - 2f94f7d0
-25 501 "SnGpe.dll.mui" 23.06.20 08-13 18016 - 37c807fd
-25 502 "SnGpeNam.dll.mui" 23.06.20 08-10 51816 - bе05a7b6
-25 503 "SnGpeXml.dll.mui" 23.06.20 08-11 16480 - 05d09dе1
-25 504 "SnHwAPI.dll.mui" 23.06.20 08-16 87168 - 6aaa5d25
-25 505 "SnicheckAPI.dll.mui" 23.06.20 02-00 27128 - 6275f004
-25 506 "SnIcheckObjects.dll.mui" 23.06.20 02-00 25600 - 8105d3bf
-25 507 "SnLicLib.dll.mui" 23.06.20 08-15 16480 - 1c20c619
-25 508 "SnObjectPicker.dll.mui" 23.06.20 08-13 20136 - 5a3еcd29
-25 509 "SnPEBoot.dll.mui" 23.06.20 02-00 25600 - a56f5608
-25 510 "SnPrintSubSystem.dll.mui" 23.06.20 02-00 157032 - a28254fd
-25 511 "SnProcExt.dll.mui" 23.06.20 02-00 25592 - 3c84100a
-25 512 "SnResource.dll.mui" 23.06.20 08-16 16480 - 07b94059
-25 513 "SnSableCrypt.dll.mui" 23.06.20 08-14 16480 - d07c4988
-25 514 "SnSrvApi.dll.mui" 23.06.20 02-00 25600 - 63696850
-25 515 "SnToken.dll.mui" 23.06.20 08-15 38824 - 1492a82d
-25 516 "SnTrustAccess.dll.mui" 23.06.20 08-10 18016 - 3еb0d7ее
-25 517 "SnVChannelSrv.dll.mui" 23.06.20 08-13 16480 - 483a6145
-25 518 "SnACApi.dll.mui" 23.06.20 08-10 16480 - a5b74dfb
-25 519 "SnErR3api.dll.mui" 23.06.20 08-14 16480 - 16aba51a
-25 520 "SnScpCtrl.dll.mui" 23.06.20 02-00 25600 - c7813bda
-25 521 "SnShadowCD.dll.mui" 23.06.20 02-00 25592 - 601a1b9a
-25 522 "SnWiper3.dll.mui" 23.06.20 02-00 25592 - cc9a5857
-25 523 "SnMetroDialogs.dll.mui" 23.06.20 08-15 147400 - c681е7bd
-25 524 "SnMsoExcelAgent.dll.mui" 23.06.20 08-11 17504 - 3af28247
-25 525 "SnMsoWordAgent.dll.mui" 23.06.20 08-15 16992 - 3769795c
-25 526 "SnPrintDialogs.dll.mui" 23.06.20 08-11 147912 - d66fcfb5
-25 527 "SnPrnCtrl.dll.mui" 23.06.20 02-00 25592 - 557е946b
-итого: файлов - 34 1346120 0 46b6127b
-"Каталог C:\Windows\SysWOW64\ru-RU\"
-26 528 "Sn5CryptoApi.dll.mui" 23.06.20 08-10 16480 - 1еd95f8b
-26 529 "SnAudit.dll.mui" 23.06.20 08-08 119392 - 81003е90
-26 530 "SnClientObjects.dll.mui" 23.06.20 02-00 25600 - d59d0133
-26 531 "SnCVApi.dll.mui" 23.06.20 02-00 25592 - 66c4fc7d
-26 532 "SnDriverInstaller.dll.mui" 23.06.20 08-17 16480 - 00c465d9
-26 533 "SnError.dll.mui" 23.06.20 08-08 80904 - 0a45549a
-26 534 "SnEvtApi.dll.mui" 23.06.20 08-12 16480 - 6c3a2600
-26 535 "SnGpe.dll.mui" 23.06.20 08-13 18016 - 775f1ac1
-26 536 "SnGpeNam.dll.mui" 23.06.20 08-10 52328 - е8е40b28
-26 537 "SnGpeXml.dll.mui" 23.06.20 08-11 16480 - 07087c61
-26 538 "SnHwAPI.dll.mui" 23.06.20 08-16 87680 - c6d4d644
-26 539 "SnicheckAPI.dll.mui" 23.06.20 02-00 27136 - 3a33f735
-26 540 "SnIcheckObjects.dll.mui" 23.06.20 02-00 25592 - 3a4е4047
-26 541 "SnLicLib.dll.mui" 23.06.20 08-15 16480 - 1b286a81
-26 542 "SnObjectPicker.dll.mui" 23.06.20 08-13 20136 - d64d7290
-26 543 "SnPEBoot.dll.mui" 23.06.20 02-00 25592 - 26466c1c
-26 544 "SnPrintSubSystem.dll.mui" 23.06.20 02-00 157032 - fb0dadc8
-26 545 "SnProcExt.dll.mui" 23.06.20 02-00 25592 - 9012fd6е
-26 546 "SnResource.dll.mui" 23.06.20 08-16 16480 - 2431329f
-26 547 "SnSableCrypt.dll.mui" 23.06.20 08-14 16480 - 323d7c98
-26 548 "SnSrvApi.dll.mui" 23.06.20 02-00 25600 - cее52е50
-26 549 "SnToken.dll.mui" 23.06.20 08-15 40424 - 2d0f9b4d
-26 550 "SnTrustAccess.dll.mui" 23.06.20 08-10 18016 - 8cfcd538
-26 551 "SnVChannelSrv.dll.mui" 23.06.20 08-13 16480 - f9c777dе
-26 552 "SnACApi.dll.mui" 23.06.20 08-10 16480 - 95b8c5f9
-26 553 "SnErR3api.dll.mui" 23.06.20 08-14 16480 - a6540492
-26 554 "SnScpCtrl.dll.mui" 23.06.20 02-00 25592 - еc1684f8
-26 555 "SnShadowCD.dll.mui" 23.06.20 02-00 25600 - 79fbfd8е
-26 556 "SnWiper3.dll.mui" 23.06.20 02-00 25592 - 4е2148c9
-26 557 "SnMetroDialogs.dll.mui" 23.06.20 08-15 147400 - f9c4dе0d
-26 558 "SnMsoExcelAgent.dll.mui" 23.06.20 08-11 17504 - 1112c6a2
-26 559 "SnMsoWordAgent.dll.mui" 23.06.20 08-15 16992 - ее1771a6
-26 560 "SnPrintDialogs.dll.mui" 23.06.20 08-11 148488 - 2f427еcd
-26 561 "SnPrnCtrl.dll.mui" 23.06.20 02-00 25592 - 89361270
-итого: файлов - 34 1372192 0 06cf2011
-"Каталог C:\Program Files\Secret Net Studio\Client\"
-27 562 "sndomainusers.dll" 23.06.20 09-24 2967848 - 96b99b59
-27 563 "SnEraserPV.exe" 23.06.20 09-17 612600 - 52435764
-27 564 "SnReportPassSw.dll" 23.06.20 09-17 258768 - dad913b3
-27 565 "SnRWS.dll" 23.06.20 09-21 1133640 - е3ddf22c
-27 566 "SnSblFourApi.dll" 23.06.20 09-21 374056 - 4еa43796
-27 567 "snsshell.exe" 23.06.20 09-32 382368 - 6е1a5е7a
-итого: файлов - 6 5729280 0 61738faе
-"Каталог C:\Program Files\Secret Net Studio\Client\ru-RU\"
-28 568 "sndomainusers.dll.mui" 23.06.20 09-24 449256 - b25464ad
-28 569 "SnEraserPV.exe.mui" 23.06.20 09-17 18016 - 40905936
-28 570 "SnReportPassSw.dll.mui" 23.06.20 09-17 16480 - 45bc735f
-28 571 "SnRWS.dll.mui" 23.06.20 09-21 18016 - 0d2b2089
-28 572 "SnSblFourApi.dll.mui" 23.06.20 09-21 16992 - b45d2c93
-28 573 "snsshell.exe.mui" 23.06.20 09-32 18016 - 92bе2564
-итого: файлов - 6 536776 0 8aе8a3c3
-"Каталог C:\Program Files\Secret Net Studio\Client\en-US\"
-29 574 "sndomainusers.dll.mui" 23.06.20 09-24 448744 - 4b81812a
-29 575 "SnEraserPV.exe.mui" 23.06.20 09-17 17504 - 7073a70a
-29 576 "SnReportPassSw.dll.mui" 23.06.20 09-17 16480 - a9abc4е7
-29 577 "SnRWS.dll.mui" 23.06.20 09-21 17504 - 9cafb15е
-29 578 "SnSblFourApi.dll.mui" 23.06.20 09-21 16992 - 155aеcda
-29 579 "snsshell.exe.mui" 23.06.20 09-32 18528 - b7f0е4b2
-итого: файлов - 6 535752 0 cc9a7009
-"Каталог C:\Windows\System32\en-US\"
-30 580 "SnScpCtrlSubSystem.dll.mui" 23.06.20 02-00 25592 - b9841bd6
-итого: файлов - 1 25592 0 b9841bd6
-"Каталог C:\Windows\System32\ru-RU\"
-31 581 "SnScpCtrlSubSystem.dll.mui" 23.06.20 02-00 25600 - 701cab92
-итого: файлов - 1 25600 0 701cab92
-"Каталог C:\Windows\SysWOW64\en-US\"
-32 582 "SnScpCtrlSubSystem.dll.mui" 23.06.20 02-00 25592 - b9841bd6
-итого: файлов - 1 25592 0 b9841bd6
-"Каталог C:\Windows\SysWOW64\ru-RU\"
-33 583 "SnScpCtrlSubSystem.dll.mui" 23.06.20 02-00 25600 - 701cab92
-итого: файлов - 1 25600 0 701cab92
-"Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\"
-34 584 "ScTeApi.dll" 23.06.20 08-27 27061872 - 7b9d4f64
-34 585 "scteerror.dll" 23.06.20 08-27 21288 - 73538779
-итого: файлов - 2 27083160 0 ееf0d6dd
-"Каталог C:\Program Files\Secret Net Studio\Control Center\clientdll\"
-35 586 "ScTeApi.dll" 23.06.20 08-27 27061872 - 7b9d4f64
-35 587 "scteerror.dll" 23.06.20 08-27 21288 - 73538779
-итого: файлов - 2 27083160 0 ееf0d6dd
-"Каталог C:\Program Files\Secret Net Studio\Control Center\clientdll\en-US\"
-36 588 "SnPrintConfig.dll.mui" 23.06.20 09-16 16480 - 52365fе2
-36 589 "SnPrintSubSystem.dll.mui" 23.06.20 04-01 157032 - 5е3ab120
-36 590 "SnTmlEdit.exe.mui" 23.06.20 09-21 665368 - 0c76еaa8
-итого: файлов - 3 838880 0 bcе6faab
-"Каталог C:\Program Files\Secret Net Studio\Control Center\clientdll\ru-RU\"
-37 591 "SnPrintConfig.dll.mui" 23.06.20 09-16 16480 - d66b2544
-37 592 "SnPrintSubSystem.dll.mui" 23.06.20 04-00 157032 - 4659b7b3
-37 593 "SnTmlEdit.exe.mui" 23.06.20 09-21 666904 - c93c4c8d
-итого: файлов - 3 840416 0 е5012985
-"Каталог C:\Program Files\Secret Net Studio\Control Center\en-US\"
-38 594 "ClientMIB.resources.dll" 23.06.20 09-34 19112 - 70308388
-38 595 "ClientMIBServices.resources.dll" 23.06.20 09-34 25896 - 69d3cf79
-38 596 "CLRSnTrace.dll.mui" 23.06.20 09-34 16480 - c8c13е33
-38 597 "LacusFramework.dll.mui" 23.06.20 09-26 21160 - еcdfе932
-38 598 "LacusMedusaTransport.dll.mui" 23.06.20 09-33 16480 - ad9еd80a
-38 599 "LacusMedusaTransport.resources.dll" 23.06.20 09-34 4608 - 1264fb6b
-38 600 "lc.dll.mui" 23.06.20 09-26 51304 - 39dd6557
-38 601 "ManagedServices.dll.mui" 23.06.20 09-32 16480 - 5a478587
-38 602 "ManagedServices.resources.dll" 23.06.20 09-34 4608 - 66dеcc28
-38 603 "Medusa.resources.dll" 23.06.20 09-35 2337672 - b863c499
-38 604 "SnDCDesc.dll.mui" 23.06.20 09-16 32104 - 7еb60d56
-38 605 "SnMercurius.dll.mui" 23.06.20 09-24 18528 - 48cе6ba0
-38 606 "SnServerObjects.dll.mui" 23.06.20 09-26 18016 - bf74d119
-38 607 "uc.dll.mui" 23.06.20 09-24 16480 - 0dcе7еdе
-38 608 "XmlDocument.dll.mui" 23.06.20 09-25 16992 - 1547aеab
-итого: файлов - 15 2615920 0 a41d441b
-"Каталог C:\Program Files\Secret Net Studio\Control Center\ru-RU\"
-39 609 "ClientMIB.resources.dll" 23.06.20 09-34 19112 - е4d88709
-39 610 "ClientMIBServices.resources.dll" 23.06.20 09-34 26920 - b52db5cc
-39 611 "CLRSnTrace.dll.mui" 23.06.20 09-34 16480 - 32f8f41f
-39 612 "LacusFramework.dll.mui" 23.06.20 09-26 21160 - 99е675c7
-39 613 "LacusMedusaTransport.dll.mui" 23.06.20 09-33 16480 - d07a3bе0
-39 614 "LacusMedusaTransport.resources.dll" 23.06.20 09-34 5120 - 0d63c90f
-39 615 "lc.dll.mui" 23.06.20 09-26 19040 - c7bc294d
-39 616 "ManagedServices.dll.mui" 23.06.20 09-32 16480 - 4689033c
-39 617 "ManagedServices.resources.dll" 23.06.20 09-34 4608 - 5е282d61
-39 618 "Medusa.resources.dll" 23.06.20 09-35 2594832 - 6ff168af
-39 619 "SnDCDesc.dll.mui" 23.06.20 09-16 32104 - a3е89f4c
-39 620 "SnMercurius.dll.mui" 23.06.20 09-24 18528 - 0f532232
-39 621 "SnServerObjects.dll.mui" 23.06.20 09-26 18528 - еb5d9dfa
-39 622 "uc.dll.mui" 23.06.20 09-24 16480 - 86a586еa
-39 623 "XmlDocument.dll.mui" 23.06.20 09-25 16992 - 33083bcе
-итого: файлов - 15 2842864 0 716a9179
-"Каталог C:\Program Files\Secret Net Studio\Client\Update Client\"
-40 624 "SNS.agent_proxy.us.dll" 18.06.20 09-52 1804680 - 3437f124
-40 625 "SNS.download_service.exe" 18.06.20 09-53 7124944 - еa9f27bе
-40 626 "SNS.download_worker.exe" 18.06.20 09-50 3912352 - d734d89е
-40 627 "SNS.messages.dll" 18.06.20 09-48 26536 - af665a1е
-40 628 "SNS.reporting.upd.dll" 18.06.20 09-49 1436456 - fc5d2dd1
-40 629 "SNS.resources.dll" 18.06.20 09-48 26536 - 61c68281
-40 630 "SNS.update_service.exe" 18.06.20 09-53 4083256 - 820c58f1
-итого: файлов - 7 18414760 0 83a353е4
-"Каталог C:\Program Files\Secret Net Studio\Client\Update Client\en-US\"
-41 631 "SNS.agent_proxy.us.dll.mui" 18.06.20 09-51 130048 - a0ffcе51
-41 632 "SNS.download_service.exe.mui" 18.06.20 09-53 131584 - 02b952е1
-41 633 "SNS.download_worker.exe.mui" 18.06.20 09-49 131072 - cfbfaa00
-41 634 "SNS.messages.dll.mui" 18.06.20 09-48 70144 - 1d73133b
-41 635 "SNS.reporting.upd.dll.mui" 18.06.20 09-49 130048 - c7977959
-41 636 "SNS.resources.dll.mui" 18.06.20 09-48 7680 - cdеd0324
-41 637 "SNS.update_service.exe.mui" 18.06.20 09-52 131072 - ff580f50
-итого: файлов - 7 731648 0 21ca6c3c
-"Каталог C:\Program Files\Secret Net Studio\Client\Update Client\ru-RU\"
-42 638 "SNS.agent_proxy.us.dll.mui" 18.06.20 09-51 130048 - 449c7860
-42 639 "SNS.download_service.exe.mui" 18.06.20 09-53 130048 - b472a4c6
-42 640 "SNS.download_worker.exe.mui" 18.06.20 09-49 130048 - 8fее2c2f
-42 641 "SNS.messages.dll.mui" 18.06.20 09-48 73216 - 000bcfcb
-42 642 "SNS.reporting.upd.dll.mui" 18.06.20 09-49 130048 - 4d80784a
-42 643 "SNS.resources.dll.mui" 18.06.20 09-48 7680 - 8922b35d
-42 644 "SNS.update_service.exe.mui" 18.06.20 09-52 130048 - 79f97c63
-итого: файлов - 7 731136 0 d6a4c12d
-ВСЕГО: файлов - 644 422148483 0 b46f2c65
+
+программно)                                  программно)
+"Каталог C:\Program Files\Secret Net Studio\Client\" "Каталог C:\Program Files\Secret Net Studio\Client\"
+1 1 1 1 1 1 1
+2 2 2 2 2 2 2
+3 3 3 3 3 3 3
+4 4 4 4 4 4 4
+5 5 5 5 5 5 5
+6 6 6 6 6 6 6
+7 7 7 7 7 7 7
+8 8 8 8 8 8 8
+9 9 9 9 9 9 9
+10 10 10 10 10 10 10
+11 11 11 11 11 11 11
+12 12 12 12 12 12 12
+13 13 13 13 13 13 13
+14 14 14 14 14 14 14
+15 15 15 15 15 15 15
+16 16 16 16 16 16 16
+17 17 17 17 17 17 17
+18 18 18 18 18 18 18
+19 19 19 19 19 19 19
+20 20 20 20 20 20 20
+21 21 21 21 21 21 21
+22 22 22 22 22 22 22
+23 23 23 23 23 23 23
+24 24 24 24 24 24 24
+25 25 25 25 25 25 25
+26 26 26 26 26 26 26
+27 27 27 27 27 27 27
+28 28 28 28 28 28 28
+29 29 29 29 29 29 29
+30 30 30 30 30 30 30
+31 31 31 31 31 31 31
+32 32 32 32 32 32 32
+33 33 33 33 33 33 33
+34 34 34 34 34 34 34
+35 35 35 35 35 35 35
+36 36 36 36 36 36 36
+37 37 37 37 37 37 37
+38 38 38 38 38 38 38
+39 39 39 39 39 39 39
+40 40 40 40 40 40 40
+41 41 41 41 41 41 41
+42 42 42 42 42 42 42
+43 43 43 43 43 43 43
+44 44 44 44 44 44 44
+45 45 45 45 45 45 45
+46 46 46 46 46 46 46
+47 47 47 47 47 47 47
+48 48 48 48 48 48 48
+49 49 49 49 49 49 49
+50 50 50 50 50 50 50
+51 51 51 51 51 51 51
+52 52 52 52 52 52 52
+53 53 53 53 53 53 53
+
+"Каталог C:\Windows\SysWOW64\" "Каталог C:\Windows\SysWOW64\"
+54 54 54 54 54 54 54
+55 55 55 55 55 55 55
+56 56 56 56 56 56 56
+57 57 57 57 57 57 57
+58 58 58 58 58 58 58
+59 59 59 59 59 59 59
+60 60 60 60 60 60 60
+61 61 61 61 61 61 61
+62 62 62 62 62 62 62
+63 63 63 63 63 63 63
+64 64 64 64 64 64 64
+65 65 65 65 65 65 65
+66 66 66 66 66 66 66
+67 67 67 67 67 67 67
+68 68 68 68 68 68 68
+69 69 69 69 69 69 69
+70 70 70 70 70 70 70
+71 71 71 71 71 71 71
+72 72 72 72 72 72 72
+73 73 73 73 73 73 73
+74 74 74 74 74 74 74
+75 75 75 75 75 75 75
+
+"Каталог C:\Windows\System32\" "Каталог C:\Windows\System32\"
+76 76 76 76 76 76 76
+77 77 77 77 77 77 77
+78 78 78 78 78 78 78
+79 79 79 79 79 79 79
+80 80 80 80 80 80 80
+81 81 81 81 81 81 81
+82 82 82 82 82 82 82
+83 83 83 83 83 83 83
+84 84 84 84 84 84 84
+85 85 85 85 85 85 85
+86 86 86 86 86 86 86
+87 87 87 87 87 87 87
+88 88 88 88 88 88 88
+89 89 89 89 89 89 89
+90 90 90 90 90 90 90
+91 91 91 91 91 91 91
+92 92 92 92 92 92 92
+93 93 93 93 93 93 93
+94 94 94 94 94 94 94
+95 95 95 95 95 95 95
+96 96 96 96 96 96 96
+97 97 97 97 97 97 97
+
+"Каталог C:\Program Files\Secret Net Studio\Client\virtualprinter\" "Каталог C:\Program Files\Secret Net Studio\Client\virtualprinter\"
+98 98 98 98 98 98 98
+99 99 99 99 99 99 99
+
+"Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\" "Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\"
+100 100 100 100 100 100 100
+101 101 101 101 101 101 101
+102 102 102 102 102 102 102
+103 103 103 103 103 103 103
+104 104 104 104 104 104 104
+105 105 105 105 105 105 105
+106 106 106 106 106 106 106
+107 107 107 107 107 107 107
+108 108 108 108 108 108 108
+109 109 109 109 109 109 109
+110 110 110 110 110 110 110
+111 111 111 111 111 111 111
+112 112 112 112 112 112 112
+
+"Каталог C:\Program Files\Secret Net Studio\Server\Security Server\" "Каталог C:\Program Files\Secret Net Studio\Server\Security Server\"
+113 113 113 113 113 113 113
+114 114 114 114 114 114 114
+115 115 115 115 115 115 115
+116 116 116 116 116 116 116
+117 117 117 117 117 117 117
+118 118 118 118 118 118 118
+119 119 119 119 119 119 119
+120 120 120 120 120 120 120
+121 121 121 121 121 121 121
+122 122 122 122 122 122 122
+123 123 123 123 123 123 123
+124 124 124 124 124 124 124
+125 125 125 125 125 125 125
+126 126 126 126 126 126 126
+127 127 127 127 127 127 127
+128 128 128 128 128 128 128
+129 129 129 129 129 129 129
+130 130 130 130 130 130 130
+131 131 131 131 131 131 131
+132 132 132 132 132 132 132
+133 133 133 133 133 133 133
+134 134 134 134 134 134 134
+135 135 135 135 135 135 135
+136 136 136 136 136 136 136
+137 137 137 137 137 137 137
+138 138 138 138 138 138 138
+
+"Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\" "Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\"
+139 139 139 139 139 139 139
+140 140 140 140 140 140 140
+141 141 141 141 141 141 141
+
+"Каталог C:\Program Files\Secret Net Studio\Server\Authentication Server\" "Каталог C:\Program Files\Secret Net Studio\Server\Authentication Server\"
+142 142 142 142 142 142 142
+143 143 143 143 143 143 143
+144 144 144 144 144 144 144
+145 145 145 145 145 145 145
+146 146 146 146 146 146 146
+147 147 147 147 147 147 147
+148 148 148 148 148 148 148
+149 149 149 149 149 149 149
+150 150 150 150 150 150 150
+151 151 151 151 151 151 151
+152 152 152 152 152 152 152
+153 153 153 153 153 153 153
+154 154 154 154 154 154 154
+155 155 155 155 155 155 155
+156 156 156 156 156 156 156
+157 157 157 157 157 157 157
+158 158 158 158 158 158 158
+159 159 159 159 159 159 159
+160 160 160 160 160 160 160
+161 161 161 161 161 161 161
+162 162 162 162 162 162 162
+163 163 163 163 163 163 163
+164 164 164 164 164 164 164
+165 165 165 165 165 165 165
+166 166 166 166 166 166 166
+167 167 167 167 167 167 167
+168 168 168 168 168 168 168
+169 169 169 169 169 169 169
+170 170 170 170 170 170 170
+171 171 171 171 171 171 171
+172 172 172 172 172 172 172
+173 173 173 173 173 173 173
+174 174 174 174 174 174 174
+
+"Каталог C:\Program Files\Secret Net Studio\Control Center\" "Каталог C:\Program Files\Secret Net Studio\Control Center\"
+175 175 175 175 175 175 175
+176 176 176 176 176 176 176
+177 177 177 177 177 177 177
+178 178 178 178 178 178 178
+179 179 179 179 179 179 179
+180 180 180 180 180 180 180
+181 181 181 181 181 181 181
+182 182 182 182 182 182 182
+183 183 183 183 183 183 183
+184 184 184 184 184 184 184
+185 185 185 185 185 185 185
+186 186 186 186 186 186 186
+187 187 187 187 187 187 187
+
+"Каталог C:\Program Files\Secret Net Studio\Control Center\clientdll\" "Каталог C:\Program Files\Secret Net Studio\Control Center\clientdll\"
+188 188 188 188 188 188 188
+189 189 189 189 189 189 189
+190 190 190 190 190 190 190
+
+"Каталог C:\Program Files\Secret Net Studio\Client\ru-ru\" "Каталог C:\Program Files\Secret Net Studio\Client\ru-ru\"
+191 191 191 191 191 191 191
+192 192 192 192 192 192 192
+193 193 193 193 193 193 193
+194 194 194 194 194 194 194
+195 195 195 195 195 195 195
+196 196 196 196 196 196 196
+197 197 197 197 197 197 197
+198 198 198 198 198 198 198
+199 199 199 199 199 199 199
+200 200 200 200 200 200 200
+201 201 201 201 201 201 201
+202 202 202 202 202 202 202
+203 203 203 203 203 203 203
+204 204 204 204 204 204 204
+205 205 205 205 205 205 205
+206 206 206 206 206 206 206
+207 207 207 207 207 207 207
+208 208 208 208 208 208 208
+209 209 209 209 209 209 209
+210 210 210 210 210 210 210
+211 211 211 211 211 211 211
+212 212 212 212 212 212 212
+213 213 213 213 213 213 213
+214 214 214 214 214 214 214
+215 215 215 215 215 215 215
+216 216 216 216 216 216 216
+217 217 217 217 217 217 217
+218 218 218 218 218 218 218
+219 219 219 219 219 219 219
+220 220 220 220 220 220 220
+221 221 221 221 221 221 221
+222 222 222 222 222 222 222
+223 223 223 223 223 223 223
+224 224 224 224 224 224 224
+225 225 225 225 225 225 225
+226 226 226 226 226 226 226
+227 227 227 227 227 227 227
+228 228 228 228 228 228 228
+229 229 229 229 229 229 229
+230 230 230 230 230 230 230
+231 231 231 231 231 231 231
+232 232 232 232 232 232 232
+233 233 233 233 233 233 233
+234 234 234 234 234 234 234
+235 235 235 235 235 235 235
+236 236 236 236 236 236 236
+237 237 237 237 237 237 237
+238 238 238 238 238 238 238
+239 239 239 239 239 239 239
+240 240 240 240 240 240 240
+241 241 241 241 241 241 241
+242 242 242 242 242 242 242
+243 243 243 243 243 243 243
+244 244 244 244 244 244 244
+245 245 245 245 245 245 245
+246 246 246 246 246 246 246
+247 247 247 247 247 247 247
+248 248 248 248 248 248 248
+249 249 249 249 249 249 249
+250 250 250 250 250 250 250
+251 251 251 251 251 251 251
+252 252 252 252 252 252 252
+253 253 253 253 253 253 253
+254 254 254 254 254 254 254
+255 255 255 255 255 255 255
+256 256 256 256 256 256 256
+257 257 257 257 257 257 257
+
+"Каталог C:\Program Files\Secret Net Studio\Client\en-us\" "Каталог C:\Program Files\Secret Net Studio\Client\en-us\"
+258 258 258 258 258 258 258
+259 259 259 259 259 259 259
+260 260 260 260 260 260 260
+261 261 261 261 261 261 261
+262 262 262 262 262 262 262
+263 263 263 263 263 263 263
+264 264 264 264 264 264 264
+265 265 265 265 265 265 265
+266 266 266 266 266 266 266
+267 267 267 267 267 267 267
+268 268 268 268 268 268 268
+269 269 269 269 269 269 269
+270 270 270 270 270 270 270
+271 271 271 271 271 271 271
+272 272 272 272 272 272 272
+273 273 273 273 273 273 273
+274 274 274 274 274 274 274
+275 275 275 275 275 275 275
+276 276 276 276 276 276 276
+277 277 277 277 277 277 277
+278 278 278 278 278 278 278
+279 279 279 279 279 279 279
+280 280 280 280 280 280 280
+281 281 281 281 281 281 281
+282 282 282 282 282 282 282
+283 283 283 283 283 283 283
+284 284 284 284 284 284 284
+285 285 285 285 285 285 285
+286 286 286 286 286 286 286
+287 287 287 287 287 287 287
+288 288 288 288 288 288 288
+289 289 289 289 289 289 289
+290 290 290 290 290 290 290
+291 291 291 291 291 291 291
+292 292 292 292 292 292 292
+293 293 293 293 293 293 293
+294 294 294 294 294 294 294
+295 295 295 295 295 295 295
+296 296 296 296 296 296 296
+297 297 297 297 297 297 297
+298 298 298 298 298 298 298
+299 299 299 299 299 299 299
+300 300 300 300 300 300 300
+301 301 301 301 301 301 301
+302 302 302 302 302 302 302
+303 303 303 303 303 303 303
+304 304 304 304 304 304 304
+305 305 305 305 305 305 305
+306 306 306 306 306 306 306
+307 307 307 307 307 307 307
+308 308 308 308 308 308 308
+309 309 309 309 309 309 309
+310 310 310 310 310 310 310
+311 311 311 311 311 311 311
+312 312 312 312 312 312 312
+313 313 313 313 313 313 313
+314 314 314 314 314 314 314
+315 315 315 315 315 315 315
+316 316 316 316 316 316 316
+317 317 317 317 317 317 317
+318 318 318 318 318 318 318
+319 319 319 319 319 319 319
+320 320 320 320 320 320 320
+321 321 321 321 321 321 321
+322 322 322 322 322 322 322
+323 323 323 323 323 323 323
+324 324 324 324 324 324 324
+
+"Каталог C:\Program Files\Secret Net Studio\Client\" "Каталог C:\Program Files\Secret Net Studio\Client\"
+325 325 325 325 325 325 325
+326 326 326 326 326 326 326
+327 327 327 327 327 327 327
+328 328 328 328 328 328 328
+329 329 329 329 329 329 329
+330 330 330 330 330 330 330
+331 331 331 331 331 331 331
+332 332 332 332 332 332 332
+333 333 333 333 333 333 333
+334 334 334 334 334 334 334
+335 335 335 335 335 335 335
+336 336 336 336 336 336 336
+337 337 337 337 337 337 337
+338 338 338 338 338 338 338
+339 339 339 339 339 339 339
+340 340 340 340 340 340 340
+341 341 341 341 341 341 341
+342 342 342 342 342 342 342
+343 343 343 343 343 343 343
+344 344 344 344 344 344 344
+345 345 345 345 345 345 345
+346 346 346 346 346 346 346
+347 347 347 347 347 347 347
+
+"Каталог C:\Program Files\Secret Net Studio\Client\en-US\" "Каталог C:\Program Files\Secret Net Studio\Client\en-US\"
+348 348 348 348 348 348 348
+349 349 349 349 349 349 349
+350 350 350 350 350 350 350
+351 351 351 351 351 351 351
+352 352 352 352 352 352 352
+353 353 353 353 353 353 353
+
+"Каталог C:\Program Files\Secret Net Studio\Client\ru-RU\" "Каталог C:\Program Files\Secret Net Studio\Client\ru-RU\"
+354 354 354 354 354 354 354
+355 355 355 355 355 355 355
+356 356 356 356 356 356 356
+357 357 357 357 357 357 357
+358 358 358 358 358 358 358
+359 359 359 359 359 359 359
+
+"Каталог C:\Windows\System32\" "Каталог C:\Windows\System32\"
+360 360 360 360 360 360 360
+361 361 361 361 361 361 361
+362 362 362 362 362 362 362
+363 363 363 363 363 363 363
+364 364 364 364 364 364 364
+365 365 365 365 365 365 365
+366 366 366 366 366 366 366
+367 367 367 367 367 367 367
+368 368 368 368 368 368 368
+369 369 369 369 369 369 369
+370 370 370 370 370 370 370
+371 371 371 371 371 371 371
+372 372 372 372 372 372 372
+
+"Каталог C:\Windows\System32\en-US\" "Каталог C:\Windows\System32\en-US\"
+373 373 373 373 373 373 373
+374 374 374 374 374 374 374
+375 375 375 375 375 375 375
+376 376 376 376 376 376 376
+377 377 377 377 377 377 377
+378 378 378 378 378 378 378
+379 379 379 379 379 379 379
+380 380 380 380 380 380 380
+381 381 381 381 381 381 381
+382 382 382 382 382 382 382
+383 383 383 383 383 383 383
+384 384 384 384 384 384 384
+385 385 385 385 385 385 385
+386 386 386 386 386 386 386
+387 387 387 387 387 387 387
+388 388 388 388 388 388 388
+389 389 389 389 389 389 389
+390 390 390 390 390 390 390
+391 391 391 391 391 391 391
+392 392 392 392 392 392 392
+393 393 393 393 393 393 393
+394 394 394 394 394 394 394
+395 395 395 395 395 395 395
+396 396 396 396 396 396 396
+397 397 397 397 397 397 397
+398 398 398 398 398 398 398
+399 399 399 399 399 399 399
+400 400 400 400 400 400 400
+401 401 401 401 401 401 401
+402 402 402 402 402 402 402
+403 403 403 403 403 403 403
+404 404 404 404 404 404 404
+405 405 405 405 405 405 405
+406 406 406 406 406 406 406
+
+"Каталог C:\Windows\System32\ru-RU\" "Каталог C:\Windows\System32\ru-RU\"
+407 407 407 407 407 407 407
+408 408 408 408 408 408 408
+409 409 409 409 409 409 409
+410 410 410 410 410 410 410
+411 411 411 411 411 411 411
+412 412 412 412 412 412 412
+413 413 413 413 413 413 413
+414 414 414 414 414 414 414
+415 415 415 415 415 415 415
+416 416 416 416 416 416 416
+417 417 417 417 417 417 417
+418 418 418 418 418 418 418
+419 419 419 419 419 419 419
+420 420 420 420 420 420 420
+421 421 421 421 421 421 421
+422 422 422 422 422 422 422
+423 423 423 423 423 423 423
+424 424 424 424 424 424 424
+425 425 425 425 425 425 425
+426 426 426 426 426 426 426
+427 427 427 427 427 427 427
+428 428 428 428 428 428 428
+429 429 429 429 429 429 429
+430 430 430 430 430 430 430
+431 431 431 431 431 431 431
+432 432 432 432 432 432 432
+433 433 433 433 433 433 433
+434 434 434 434 434 434 434
+435 435 435 435 435 435 435
+436 436 436 436 436 436 436
+437 437 437 437 437 437 437
+438 438 438 438 438 438 438
+439 439 439 439 439 439 439
+440 440 440 440 440 440 440
+
+"Каталог C:\Program Files\Secret Net Studio\Client\virtualprinter\" "Каталог C:\Program Files\Secret Net Studio\Client\virtualprinter\"
+441 441 441 441 441 441 441
+442 442 442 442 442 442 442
+443 443 443 443 443 443 443
+444 444 444 444 444 444 444
+
+"Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\en-US\" "Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\en-US\"
+445 445 445 445 445 445 445
+446 446 446 446 446 446 446
+447 447 447 447 447 447 447
+448 448 448 448 448 448 448
+449 449 449 449 449 449 449
+450 450 450 450 450 450 450
+451 451 451 451 451 451 451
+452 452 452 452 452 452 452
+453 453 453 453 453 453 453
+454 454 454 454 454 454 454
+455 455 455 455 455 455 455
+456 456 456 456 456 456 456
+457 457 457 457 457 457 457
+458 458 458 458 458 458 458
+459 459 459 459 459 459 459
+
+"Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\ru-RU\" "Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\ru-RU\"
+460 460 460 460 460 460 460
+461 461 461 461 461 461 461
+462 462 462 462 462 462 462
+463 463 463 463 463 463 463
+464 464 464 464 464 464 464
+465 465 465 465 465 465 465
+466 466 466 466 466 466 466
+467 467 467 467 467 467 467
+468 468 468 468 468 468 468
+469 469 469 469 469 469 469
+470 470 470 470 470 470 470
+471 471 471 471 471 471 471
+472 472 472 472 472 472 472
+473 473 473 473 473 473 473
+474 474 474 474 474 474 474
+
+"Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\en-US\" "Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\en-US\"
+475 475 475 475 475 475 475
+476 476 476 476 476 476 476
+477 477 477 477 477 477 477
+
+"Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\ru-RU\" "Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\ru-RU\"
+478 478 478 478 478 478 478
+479 479 479 479 479 479 479
+480 480 480 480 480 480 480
+
+"Каталог C:\Windows\SysWOW64\" "Каталог C:\Windows\SysWOW64\"
+481 481 481 481 481 481 481
+482 482 482 482 482 482 482
+483 483 483 483 483 483 483
+484 484 484 484 484 484 484
+485 485 485 485 485 485 485
+486 486 486 486 486 486 486
+487 487 487 487 487 487 487
+488 488 488 488 488 488 488
+489 489 489 489 489 489 489
+490 490 490 490 490 490 490
+491 491 491 491 491 491 491
+492 492 492 492 492 492 492
+493 493 493 493 493 493 493
+
+"Каталог C:\Windows\SysWOW64\en-US\" "Каталог C:\Windows\SysWOW64\en-US\"
+494 494 494 494 494 494 494
+495 495 495 495 495 495 495
+496 496 496 496 496 496 496
+497 497 497 497 497 497 497
+498 498 498 498 498 498 498
+499 499 499 499 499 499 499
+500 500 500 500 500 500 500
+501 501 501 501 501 501 501
+502 502 502 502 502 502 502
+503 503 503 503 503 503 503
+504 504 504 504 504 504 504
+505 505 505 505 505 505 505
+506 506 506 506 506 506 506
+507 507 507 507 507 507 507
+508 508 508 508 508 508 508
+509 509 509 509 509 509 509
+510 510 510 510 510 510 510
+511 511 511 511 511 511 511
+512 512 512 512 512 512 512
+513 513 513 513 513 513 513
+514 514 514 514 514 514 514
+515 515 515 515 515 515 515
+516 516 516 516 516 516 516
+517 517 517 517 517 517 517
+518 518 518 518 518 518 518
+519 519 519 519 519 519 519
+520 520 520 520 520 520 520
+521 521 521 521 521 521 521
+522 522 522 522 522 522 522
+523 523 523 523 523 523 523
+524 524 524 524 524 524 524
+525 525 525 525 525 525 525
+526 526 526 526 526 526 526
+527 527 527 527 527 527 527
+
+"Каталог C:\Windows\SysWOW64\ru-RU\" "Каталог C:\Windows\SysWOW64\ru-RU\"
+528 528 528 528 528 528 528
+529 529 529 529 529 529 529
+530 530 530 530 530 530 530
+531 531 531 531 531 531 531
+532 532 532 532 532 532 532
+533 533 533 533 533 533 533
+534 534 534 534 534 534 534
+535 535 535 535 535 535 535
+536 536 536 536 536 536 536
+537 537 537 537 537 537 537
+538 538 538 538 538 538 538
+539 539 539 539 539 539 539
+540 540 540 540 540 540 540
+541 541 541 541 541 541 541
+542 542 542 542 542 542 542
+543 543 543 543 543 543 543
+544 544 544 544 544 544 544
+545 545 545 545 545 545 545
+546 546 546 546 546 546 546
+547 547 547 547 547 547 547
+548 548 548 548 548 548 548
+549 549 549 549 549 549 549
+550 550 550 550 550 550 550
+551 551 551 551 551 551 551
+552 552 552 552 552 552 552
+553 553 553 553 553 553 553
+554 554 554 554 554 554 554
+555 555 555 555 555 555 555
+556 556 556 556 556 556 556
+557 557 557 557 557 557 557
+558 558 558 558 558 558 558
+559 559 559 559 559 559 559
+560 560 560 560 560 560 560
+561 561 561 561 561 561 561
+
+"Каталог C:\Program Files\Secret Net Studio\Client\" "Каталог C:\Program Files\Secret Net Studio\Client\"
+562 562 562 562 562 562 562
+563 563 563 563 563 563 563
+564 564 564 564 564 564 564
+565 565 565 565 565 565 565
+566 566 566 566 566 566 566
+567 567 567 567 567 567 567
+
+"Каталог C:\Program Files\Secret Net Studio\Client\ru-RU\" "Каталог C:\Program Files\Secret Net Studio\Client\ru-RU\"
+568 568 568 568 568 568 568
+569 569 569 569 569 569 569
+570 570 570 570 570 570 570
+571 571 571 571 571 571 571
+572 572 572 572 572 572 572
+573 573 573 573 573 573 573
+
+"Каталог C:\Program Files\Secret Net Studio\Client\en-US\" "Каталог C:\Program Files\Secret Net Studio\Client\en-US\"
+574 574 574 574 574 574 574
+575 575 575 575 575 575 575
+576 576 576 576 576 576 576
+577 577 577 577 577 577 577
+578 578 578 578 578 578 578
+579 579 579 579 579 579 579
+
+"Каталог C:\Windows\System32\en-US\" "Каталог C:\Windows\System32\en-US\"
+580 580 580 580 580 580 580
+
+"Каталог C:\Windows\System32\ru-RU\" "Каталог C:\Windows\System32\ru-RU\"
+581 581 581 581 581 581 581
+
+"Каталог C:\Windows\SysWOW64\en-US\" "Каталог C:\Windows\SysWOW64\en-US\"
+582 582 582 582 582 582 582
+
+"Каталог C:\Windows\SysWOW64\ru-RU\" "Каталог C:\Windows\SysWOW64\ru-RU\"
+583 583 583 583 583 583 583
+
+"Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\" "Каталог C:\Program Files\Secret Net Studio\Client\Components\Control Center\clientdll\"
+584 584 584 584 584 584 584
+585 585 585 585 585 585 585
+
+"Каталог C:\Program Files\Secret Net Studio\Control Center\clientdll\" "Каталог C:\Program Files\Secret Net Studio\Control Center\clientdll\"
+586 586 586 586 586 586 586
+587 587 587 587 587 587 587
+
+"Каталог C:\Program Files\Secret Net Studio\Control Center\clientdll\en-US\" "Каталог C:\Program Files\Secret Net Studio\Control Center\clientdll\en-US\"
+588 588 588 588 588 588 588
+589 589 589 589 589 589 589
+590 590 590 590 590 590 590
+
+"Каталог C:\Program Files\Secret Net Studio\Control Center\clientdll\ru-RU\" "Каталог C:\Program Files\Secret Net Studio\Control Center\clientdll\ru-RU\"
+591 591 591 591 591 591 591
+592 592 592 592 592 592 592
+593 593 593 593 593 593 593
+
+"Каталог C:\Program Files\Secret Net Studio\Control Center\en-US\" "Каталог C:\Program Files\Secret Net Studio\Control Center\en-US\"
+594 594 594 594 594 594 594
+595 595 595 595 595 595 595
+596 596 596 596 596 596 596
+597 597 597 597 597 597 597
+598 598 598 598 598 598 598
+599 599 599 599 599 599 599
+600 600 600 600 600 600 600
+601 601 601 601 601 601 601
+602 602 602 602 602 602 602
+603 603 603 603 603 603 603
+604 604 604 604 604 604 604
+605 605 605 605 605 605 605
+606 606 606 606 606 606 606
+607 607 607 607 607 607 607
+608 608 608 608 608 608 608
+
+"Каталог C:\Program Files\Secret Net Studio\Control Center\ru-RU\" "Каталог C:\Program Files\Secret Net Studio\Control Center\ru-RU\"
+609 609 609 609 609 609 609
+610 610 610 610 610 610 610
+611 611 611 611 611 611 611
+612 612 612 612 612 612 612
+613 613 613 613 613 613 613
+614 614 614 614 614 614 614
+615 615 615 615 615 615 615
+616 616 616 616 616 616 616
+617 617 617 617 617 617 617
+618 618 618 618 618 618 618
+619 619 619 619 619 619 619
+620 620 620 620 620 620 620
+621 621 621 621 621 621 621
+622 622 622 622 622 622 622
+623 623 623 623 623 623 623
+
+"Каталог C:\Program Files\Secret Net Studio\Client\Update Client\" "Каталог C:\Program Files\Secret Net Studio\Client\Update Client\"
+624 624 624 624 624 624 624
+625 625 625 625 625 625 625
+626 626 626 626 626 626 626
+627 627 627 627 627 627 627
+628 628 628 628 628 628 628
+629 629 629 629 629 629 629
+630 630 630 630 630 630 630
+
+"Каталог C:\Program Files\Secret Net Studio\Client\Update Client\en-US\" "Каталог C:\Program Files\Secret Net Studio\Client\Update Client\en-US\"
+631 631 631 631 631 631 631
+632 632 632 632 632 632 632
+633 633 633 633 633 633 633
+634 634 634 634 634 634 634
+635 635 635 635 635 635 635
+636 636 636 636 636 636 636
+637 637 637 637 637 637 637
+
+"Каталог C:\Program Files\Secret Net Studio\Client\Update Client\ru-RU\" "Каталог C:\Program Files\Secret Net Studio\Client\Update Client\ru-RU\"
+638 638 638 638 638 638 638
+639 639 639 639 639 639 639
+640 640 640 640 640 640 640
+641 641 641 641 641 641 641
+642 642 642 642 642 642 642
+643 643 643 643 643 643 643
+644 644 644 644 644 644 644
+
+
