@@ -1,0 +1,12 @@
+[33md2dbf55[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD@{13 hours ago}
+[33mf39e57e[m HEAD@{1}: reset: moving to HEAD~1
+[33md2dbf55[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{2}: reset: moving to HEAD@{1}
+[33md2dbf55[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{3}: reset: moving to d2dbf55
+[33md2dbf55[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{4}: reset: moving to d2dbf55
+[33mc06518b[m HEAD@{5}: commit: before reset
+[33md2dbf55[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{6}: commit: Maxx helping
+[33mf39e57e[m HEAD@{7}: commit: added right encoding
+[33m34eac63[m HEAD@{8}: commit: made referenced fix, but not at all
+[33meb7e937[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{9}: commit: fix treatment ready
+[33mb432f60[m HEAD@{10}: Branch: renamed refs/heads/master to refs/heads/main
+[33mb432f60[m HEAD@{12}: commit (initial): first commit
