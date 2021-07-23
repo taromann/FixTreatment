@@ -16,25 +16,30 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         HashMap<String, Path> referenceFixDirectories = getReferenceFixDirectories(reference);
-        List<Path> filesToConvert = copyThree(referenceFixDirectories, readyFix);
+        ArrayList<Path> filesToConvert = copyThree(referenceFixDirectories, hosts);
         FileFixHandler(filesToConvert);
 
 
     }
 
-    private static List<Path> copyThree(Map<String, Path> referenceFixDirectories, Path readyFix) {
+    private static ArrayList<Path> copyThree(HashMap source, Path hostsList) throws IOException {
         List<String> hostList = Files.readAllLines(hostsList);
+        ArrayList<Path> filesToConvert = new ArrayList<>();
         for (String host : hostList) {
             source.forEach((key, value) -> {
                 try {
                     Path dstPath = Paths.get(String.format("%s\\%s (%s)\\", readyFix, host, key));
-                    Files.createDirectory(dstPath);
-                    Files.walkFileTree((Path) value, new MyFileVisitor(dstPath));
+                    if (!Files.exists(dstPath)) {
+                        Files.createDirectory(dstPath);
+                    }
+                    filesToConvert.add(Paths.get(dstPath + "/" + "Report_New.csv"));
+                    Files.walkFileTree((Path) value, new FIleFixCopier(dstPath));
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
             });
         }
+        return filesToConvert;
     }
 
     private static HashMap<String, Path> getReferenceFixDirectories(Path reference) throws IOException {
