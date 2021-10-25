@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6bb79e1-95f9-48f8-bff8-6f411dcdeee7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FixProcessing/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FixProcessing/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/ReadyReports/Priem-G100-W1 (D).csv" beforeDir="false" afterPath="$PROJECT_DIR$/reports/ReadyReports/Priem-G100-W1 (D).csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
